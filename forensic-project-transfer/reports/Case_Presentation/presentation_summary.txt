@@ -1,0 +1,57 @@
+CASE PRESENTATION SUMMARY
+Open first: 01 Executive Summary.html
+Processed 21 Takeout ZIP files; inventoried 26,368 files; indexed 17,659 text/metadata files.
+
+Top 20 most significant Google findings:
+1. 2024-04-23 02:13:41 PM | Gmail | Search | Gmail | Searched for helo payment services ein | Apr 23, 2024, 2:13:41 PM EDT | Gmail | Source: C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\My Activity\Gmail\MyActivity.html
+2. 2024-04-25 02:34:21 PM | Gmail | Search | Gmail | Searched for gavin | Apr 25, 2024, 2:34:21 PM EDT | Gmail | Source: C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\My Activity\Gmail\MyActivity.html
+3. 2024-04-26 06:12:50 AM | Gmail | Search | Gmail | Searched for Jonathan | Apr 26, 2024, 6:12:50 AM EDT | Gmail | Source: C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\My Activity\Gmail\MyActivity.html
+4. 2024-04-26 06:20:23 AM | Gmail | Search | Gmail | Searched for Ariana | Apr 26, 2024, 6:20:23 AM EDT | Gmail | Source: C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\My Activity\Gmail\MyActivity.html
+5. 2024-04-26 03:05:36 PM | Gmail | Search | Gmail | Searched for venmo | Apr 26, 2024, 3:05:36 PM EDT | Gmail | Source: C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\My Activity\Gmail\MyActivity.html
+6. 2024-04-19 11:08:01 AM | Gmail | Search | Gmail | Searched for elijah hurd | Apr 19, 2024, 11:08:01 AM EDT | Gmail | Source: C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\My Activity\Gmail\MyActivity.html
+7. 2024-04-22 02:29:15 PM | Gmail | Search | Gmail | Searched for primecorporatecredit.com | Apr 22, 2024, 2:29:15 PM EDT | Gmail | Source: C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\My Activity\Gmail\MyActivity.html
+8. 2024-04-22 02:41:41 PM | Gmail | Search | Gmail | Searched for valeri | Apr 22, 2024, 2:41:41 PM EDT | Gmail | Source: C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\My Activity\Gmail\MyActivity.html
+9. 2024-04-24 02:06:15 PM | Gmail | Search | Gmail | Searched for mlogan@trustfi.com | Apr 24, 2024, 2:06:15 PM EDT | Gmail | Source: C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\My Activity\Gmail\MyActivity.html
+10. 2024-04-26 06:19:59 AM | Gmail | Search | Gmail | Searched for 290z5x7hn2j2fu2yaqjpc1o1o998@reply.airbnb.com | Apr 26, 2024, 6:19:59 AM EDT | Gmail | Source: C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\My Activity\Gmail\MyActivity.html
+11. 2024-04-19 07:06:20 PM | Gmail | Used service | Gmail | Used Gmail | Apr 19, 2024, 7:06:20 PM EDT | Gmail | Source: C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\My Activity\Gmail\MyActivity.html
+12. 2024-04-22 02:29:48 PM | Gmail | Used service | Gmail | Used Gmail | Apr 22, 2024, 2:29:48 PM EDT | Gmail | Source: C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\My Activity\Gmail\MyActivity.html
+13. 2024-04-22 02:41:47 PM | Gmail | Visited/Open | Gmail | Visited https://mail.google.com/mail/?extsrc=sync&client=h&plid=ACUX6DMJX6gWWhGbRJeWM102SYRv93Wq7YLbh3o&mid=18f00948c0599b31 | Apr 22, 2024, 2:41:47 PM... | Source: C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\My Activity\Gmail\MyActivity.html
+14. 2024-04-23 02:13:48 PM | Gmail | Used service | Gmail | Used Gmail | Apr 23, 2024, 2:13:48 PM EDT | Gmail | Source: C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\My Activity\Gmail\MyActivity.html
+15. 2024-04-24 02:06:20 PM | Gmail | Used service | Gmail | Used Gmail | Apr 24, 2024, 2:06:20 PM EDT | Gmail | Source: C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\My Activity\Gmail\MyActivity.html
+16. 2024-04-25 01:38:07 PM | Gmail | Used service | Gmail | Used Gmail | Apr 25, 2024, 1:38:07 PM EDT | Gmail | Source: C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\My Activity\Gmail\MyActivity.html
+17. 2024-04-25 02:34:05 PM | Gmail | Visited/Open | Gmail | Visited https://mail.google.com/mail/?extsrc=sync&client=h&plid=ACUX6DPlBpE4fPCKnEx1N5tQbHiaH7ihu9jtqh0&mid=18ee875fe8b9005f | Apr 25, 2024, 2:34:05 PM... | Source: C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\My Activity\Gmail\MyActivity.html
+18. 2024-04-25 02:34:26 PM | Gmail | Used service | Gmail | Used Gmail | Apr 25, 2024, 2:34:26 PM EDT | Gmail | Source: C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\My Activity\Gmail\MyActivity.html
+19. 2024-04-25 02:35:09 PM | Gmail | Used service | Gmail | Used Gmail | Apr 25, 2024, 2:35:09 PM EDT | Gmail | Source: C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\My Activity\Gmail\MyActivity.html
+20. 2024-04-19 06:00:12 PM | Google Business Profile | createTime metadata | createTime: 2024-04-19T18:00:12.746053Z | Source: C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\Google Business Profile\account-109822854878924139108\location-4513462355681358635\localPost-1292530519349166278\data.json
+
+Five strongest pieces of corroborating evidence:
+1. Within 60 seconds (49 sec): Google Gmail at 2024-04-26 06:12:50 AM - Gmail | Searched for Jonathan | Apr 26, 2024, 6:12:50 AM EDT | Gmail; phone artifact CE-093 at 2024-04-26 06:13:39 AM - 6:13 Venmo Apr 8 Display images venmo You paid Jonathan Braese Transfer Date and Amount: - $350.00 Apr 08, 2024 PDT n L....
+2. Within 60 seconds (33 sec): Google Gmail at 2024-04-25 01:38:07 PM - Gmail | Used Gmail | Apr 25, 2024, 1:38:07 PM EDT | Gmail; phone artifact CE-041 at 2024-04-25 01:38:40 PM - 1:38 Your $50.00 transfer from Visa 0686 is complete Inbox Venmo 12:44 PM Display images Your $50.00 transfer from Visa....
+3. Within 5 minutes (162 sec): Google Gmail at 2024-04-26 06:12:50 AM - Gmail | Searched for Jonathan | Apr 26, 2024, 6:12:50 AM EDT | Gmail; phone artifact CE-090 at 2024-04-26 06:10:08 AM - 6:09 Navy Federal C... 3:03 AM @ NAVY FEDERAL CREDIT UNION Navy Federal Security Zone: Email for HELO I Access Whoo Hoo....
+4. Within 5 minutes (250 sec): Google Gmail at 2024-04-25 01:38:07 PM - Gmail | Used Gmail | Apr 25, 2024, 1:38:07 PM EDT | Gmail; phone artifact CE-042 at 2024-04-25 01:42:17 PM - NAVY FEDERAL Credit Union CORPS AVY AIR FORCE FORCE COAST Guano VETERANS Routing Number: 256074974 a Sign Out HELO PAYM....
+5. Within 60 seconds (58 sec): Google Gmail at 2024-04-25 01:38:07 PM - Gmail | Used Gmail | Apr 25, 2024, 1:38:07 PM EDT | Gmail; phone artifact CE-040 at 2024-04-25 01:37:09 PM - 1:36 You paid Ariana Posey $200.00 Inbox Venmo Apr 22 Display images venmo You paid Ariana Posey Food Transfer Date and....
+
+Five most important source files:
+1. C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\My Activity\Gmail\MyActivity.html (19 top findings)
+2. C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\Google Business Profile\account-109822854878924139108\location-4513462355681358635\localPost-1292530519349166278\data.json (1 top findings)
+
+Strongest screenshots / phone artifacts copied into the gallery:
+1. CE-102 / EX-201 | 2024/04/25 12:54:20 | IRS/EIN; Business Record; HELO Payment Services
+2. CE-017 / EX-174 | 2024/04/25 12:51:02 | Gmail; IRS/EIN; Bank Statement; Financial Statement; Business Record; Helo Payment Services
+3. CE-030 / EX-013 | 2024/04/25 13:22:07 | IRS/EIN; Bank Statement; Financial Statement; Business Record; Helo Payment Services
+4. CE-048 / EX-031 | 2024/04/25 13:49:20 | IRS/EIN; Bank Statement; Financial Statement; Business Record; Helo Payment Services; Navy Federal
+5. CE-053 / EX-036 | 2024/04/25 13:50:58 | IRS/EIN; Bank Statement; Financial Statement; Business Record; Helo Payment Services; Navy Federal
+6. CE-059 / EX-042 | 2024/04/25 13:53:10 | IRS/EIN; Bank Statement; Financial Statement; Business Record; Helo Payment Services; Navy Federal
+7. CE-082 / EX-054 | 2024/04/25 22:44:25 | Google Account; IRS/EIN; Bank Statement; Business Record; Helo Payment Services; Navy Federal
+8. CE-020 / EX-075 | 2024/04/25 12:56:47 | Gmail; IRS/EIN; Business Record; Helo Payment Services
+9. CE-025 / EX-008 | 2024/04/25 13:10:13 | Gmail; Google Account; Bank Statement; Financial Statement; Business Record; Helo Payment Services; Navy Federal
+10. CE-026 / EX-009 | 2024/04/25 13:10:46 | Gmail; Google Account; Bank Statement; Financial Statement; Business Record; Helo Payment Services; Navy Federal
+
+Additional Takeout ZIPs:
+All ZIP files found in the specified Takeout Zips folder were processed. More ZIPs from the same Google export would only matter if additional parts exist outside that folder or if Google/provider legal process supplies logs not included in this Takeout.
+
+Recommended additional searches:
+Search provider/native records for Gmail message IDs mid=18ee875fe8b9005f and mid=18f00948c0599b31; Drive access/download records for FILE_5531.pdf / HELO Payment Services LLC EIN; Apple/iCloud attachment GUIDs and message transfer metadata; Google Account authentication logs with IP, user agent, and session data for April 19-26, 2024.
+
+Key limitations:
+Access Log Activity rows in target window: 0. Drive activity rows in parsed timeline: 0. These records do not identify the actor or determine authorization.

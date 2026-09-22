@@ -1,0 +1,152 @@
+# Current Drive Batch Strict Evidence Hits
+
+- Drive files scanned from current batch source map: 1637
+- Strict case-relevant hit files: 72
+- Note: these are Drive export file/content hits, not proof of April 2024 open/view/download activity.
+
+## Top Hits
+
+- `IMG_0228.JPG` | terms: Kula Yoga | source ZIP: `takeout-20260602T071913Z-11-026.zip` | entry: `Takeout/Drive/Kula Yoga/IMG_0228.JPG`
+  - snippet: IMG_0228.JPG Takeout/Drive/Kula Yoga/IMG_0228.JPG
+- `IMG_0227.JPG` | terms: Kula Yoga | source ZIP: `takeout-20260602T071913Z-11-026.zip` | entry: `Takeout/Drive/Kula Yoga/IMG_0227.JPG`
+  - snippet: IMG_0227.JPG Takeout/Drive/Kula Yoga/IMG_0227.JPG
+- `IMG_0226.JPG` | terms: Kula Yoga | source ZIP: `takeout-20260602T071913Z-11-026.zip` | entry: `Takeout/Drive/Kula Yoga/IMG_0226.JPG`
+  - snippet: IMG_0226.JPG Takeout/Drive/Kula Yoga/IMG_0226.JPG
+- `IMG_0224.JPG` | terms: Kula Yoga | source ZIP: `takeout-20260602T071913Z-11-026.zip` | entry: `Takeout/Drive/Kula Yoga/IMG_0224.JPG`
+  - snippet: IMG_0224.JPG Takeout/Drive/Kula Yoga/IMG_0224.JPG
+- `JackieKeeganFlyingBird2.mp4` | terms: Kula Yoga | source ZIP: `takeout-20260602T071913Z-11-026.zip` | entry: `Takeout/Drive/Kula Yoga/JackieKeeganFlyingBird2.mp4`
+  - snippet: JackieKeeganFlyingBird2.mp4 Takeout/Drive/Kula Yoga/JackieKeeganFlyingBird2.mp4
+- `Helo_BusinessPlan_May_2019_Edits(2).docx` | terms: HELO; IRS; Merchant; Stripe | source ZIP: `takeout-20260602T071913Z-11-026.zip` | entry: `Takeout/Drive/Helo_BusinessPlan_May_2019_Edits(2).docx`
+  - snippet: PAGE Helo, Inc. Business Plan Spring 2019 PAGE Cannabidiol (CBD) is a naturally occurring compound found in the resinous flower of cannabis, a plant with a rich HYPERLINK "https://www.projectcbd.org/culture/re-emergence-cbd-brief-history" history as a medicine going back thousands of years. Today the therapeutic properties of CBD are being tested 
+- `CONFIDENTIAL INFORMATION MEMORANDUM.docx` | terms: HELO; IRS; Merchant; Stripe | source ZIP: `takeout-20260602T071913Z-11-026.zip` | entry: `Takeout/Drive/CONFIDENTIAL INFORMATION MEMORANDUM.docx`
+  - snippet: PAGE Helo, Inc. Business Plan Spring 2019 PAGE Cannabidiol (CBD) is a naturally occurring compound found in the resinous flower of cannabis, a plant with a rich history as a medicine going back thousands of years. Today the therapeutic properties of CBD are being tested and confirmed by scientists and doctors around the world. A safe, non-addictiv
+- `Elijah and Micah argue-Feb 2011.MOV` | terms: Elijah | source ZIP: `takeout-20260602T071913Z-11-024.zip` | entry: `Takeout/Drive/Unorganized/Elijah and Micah argue-Feb 2011.MOV`
+  - snippet: Elijah and Micah argue-Feb 2011.MOV Takeout/Drive/Unorganized/Elijah and Micah argue-Feb 2011.MOV
+- `Elijah at 17 months (38).JPG` | terms: Elijah | source ZIP: `takeout-20260602T071913Z-11-025.zip` | entry: `Takeout/Drive/Pictures/2010/Elijah at 17 months (38).JPG`
+  - snippet: Elijah at 17 months (38).JPG Takeout/Drive/Pictures/2010/Elijah at 17 months (38).JPG
+- `Elijah at 17 months (8).JPG` | terms: Elijah | source ZIP: `takeout-20260602T071913Z-11-025.zip` | entry: `Takeout/Drive/Unorganized/Elijah at 17 months (8).JPG`
+  - snippet: Elijah at 17 months (8).JPG Takeout/Drive/Unorganized/Elijah at 17 months (8).JPG
+- `Elijah says, here we arrrrrre-Dec 2010.MOV` | terms: Elijah | source ZIP: `takeout-20260602T071913Z-11-025.zip` | entry: `Takeout/Drive/Unorganized/Elijah says, here we arrrrrre-Dec 2010.MOV`
+  - snippet: Elijah says, here we arrrrrre-Dec 2010.MOV Takeout/Drive/Unorganized/Elijah says, here we arrrrrre-Dec 2010.MOV
+- `Elijah says, here we arrrrre-Dec 2010.MOV` | terms: Elijah | source ZIP: `takeout-20260602T071913Z-11-025.zip` | entry: `Takeout/Drive/Unorganized/Elijah says, here we arrrrre-Dec 2010.MOV`
+  - snippet: Elijah says, here we arrrrre-Dec 2010.MOV Takeout/Drive/Unorganized/Elijah says, here we arrrrre-Dec 2010.MOV
+- `Elijah coloring for so long Oct 2010 (5).JPG` | terms: Elijah | source ZIP: `takeout-20260602T071913Z-11-025.zip` | entry: `Takeout/Drive/Unorganized/Elijah coloring for so long Oct 2010 (5).JPG`
+  - snippet: Elijah coloring for so long Oct 2010 (5).JPG Takeout/Drive/Unorganized/Elijah coloring for so long Oct 2010 (5).JPG
+- `Elijah coloring for so long Oct 2010 (9).JPG` | terms: Elijah | source ZIP: `takeout-20260602T071913Z-11-025.zip` | entry: `Takeout/Drive/Unorganized/Elijah coloring for so long Oct 2010 (9).JPG`
+  - snippet: Elijah coloring for so long Oct 2010 (9).JPG Takeout/Drive/Unorganized/Elijah coloring for so long Oct 2010 (9).JPG
+- `Elijah coloring for so long Oct 2010 (4).JPG` | terms: Elijah | source ZIP: `takeout-20260602T071913Z-11-025.zip` | entry: `Takeout/Drive/Unorganized/Elijah coloring for so long Oct 2010 (4).JPG`
+  - snippet: Elijah coloring for so long Oct 2010 (4).JPG Takeout/Drive/Unorganized/Elijah coloring for so long Oct 2010 (4).JPG
+- `Elijah at 17 months (33).JPG` | terms: Elijah | source ZIP: `takeout-20260602T071913Z-11-025.zip` | entry: `Takeout/Drive/Unorganized/Elijah at 17 months (33).JPG`
+  - snippet: Elijah at 17 months (33).JPG Takeout/Drive/Unorganized/Elijah at 17 months (33).JPG
+- `Elijah at 17 months (9).JPG` | terms: Elijah | source ZIP: `takeout-20260602T071913Z-11-025.zip` | entry: `Takeout/Drive/Unorganized/Elijah at 17 months (9).JPG`
+  - snippet: Elijah at 17 months (9).JPG Takeout/Drive/Unorganized/Elijah at 17 months (9).JPG
+- `Elijah coloring for so long Oct 2010 (7).JPG` | terms: Elijah | source ZIP: `takeout-20260602T071913Z-11-025.zip` | entry: `Takeout/Drive/Unorganized/Elijah coloring for so long Oct 2010 (7).JPG`
+  - snippet: Elijah coloring for so long Oct 2010 (7).JPG Takeout/Drive/Unorganized/Elijah coloring for so long Oct 2010 (7).JPG
+- `Elijah coloring for so long Oct 2010 (3).JPG` | terms: Elijah | source ZIP: `takeout-20260602T071913Z-11-025.zip` | entry: `Takeout/Drive/Unorganized/Elijah coloring for so long Oct 2010 (3).JPG`
+  - snippet: Elijah coloring for so long Oct 2010 (3).JPG Takeout/Drive/Unorganized/Elijah coloring for so long Oct 2010 (3).JPG
+- `Elijah at Ormand Beach, Fl Dec 2010.JPG` | terms: Elijah | source ZIP: `takeout-20260602T071913Z-11-025.zip` | entry: `Takeout/Drive/Unorganized/Elijah at Ormand Beach, Fl Dec 2010.JPG`
+  - snippet: Elijah at Ormand Beach, Fl Dec 2010.JPG Takeout/Drive/Unorganized/Elijah at Ormand Beach, Fl Dec 2010.JPG
+- `Elijah coloring for so long Oct 2010 (13).JPG` | terms: Elijah | source ZIP: `takeout-20260602T071913Z-11-025.zip` | entry: `Takeout/Drive/Unorganized/Elijah coloring for so long Oct 2010 (13).JPG`
+  - snippet: Elijah coloring for so long Oct 2010 (13).JPG Takeout/Drive/Unorganized/Elijah coloring for so long Oct 2010 (13).JPG
+- `Elijah at 17 months (6).JPG` | terms: Elijah | source ZIP: `takeout-20260602T071913Z-11-025.zip` | entry: `Takeout/Drive/Unorganized/Elijah at 17 months (6).JPG`
+  - snippet: Elijah at 17 months (6).JPG Takeout/Drive/Unorganized/Elijah at 17 months (6).JPG
+- `Elijah at 17 months (23).JPG` | terms: Elijah | source ZIP: `takeout-20260602T071913Z-11-025.zip` | entry: `Takeout/Drive/Unorganized/Elijah at 17 months (23).JPG`
+  - snippet: Elijah at 17 months (23).JPG Takeout/Drive/Unorganized/Elijah at 17 months (23).JPG
+- `Elijah coloring for so long Oct 2010 (10).JPG` | terms: Elijah | source ZIP: `takeout-20260602T071913Z-11-025.zip` | entry: `Takeout/Drive/Unorganized/Elijah coloring for so long Oct 2010 (10).JPG`
+  - snippet: Elijah coloring for so long Oct 2010 (10).JPG Takeout/Drive/Unorganized/Elijah coloring for so long Oct 2010 (10).JPG
+- `Elijah at 17 months (5).JPG` | terms: Elijah | source ZIP: `takeout-20260602T071913Z-11-025.zip` | entry: `Takeout/Drive/Unorganized/Elijah at 17 months (5).JPG`
+  - snippet: Elijah at 17 months (5).JPG Takeout/Drive/Unorganized/Elijah at 17 months (5).JPG
+- `Elijah at 17 months (41).JPG` | terms: Elijah | source ZIP: `takeout-20260602T071913Z-11-025.zip` | entry: `Takeout/Drive/Unorganized/Elijah at 17 months (41).JPG`
+  - snippet: Elijah at 17 months (41).JPG Takeout/Drive/Unorganized/Elijah at 17 months (41).JPG
+- `Elijah at 17 months (37).JPG` | terms: Elijah | source ZIP: `takeout-20260602T071913Z-11-025.zip` | entry: `Takeout/Drive/Unorganized/Elijah at 17 months (37).JPG`
+  - snippet: Elijah at 17 months (37).JPG Takeout/Drive/Unorganized/Elijah at 17 months (37).JPG
+- `Elijah at 17 months (40).JPG` | terms: Elijah | source ZIP: `takeout-20260602T071913Z-11-025.zip` | entry: `Takeout/Drive/Unorganized/Elijah at 17 months (40).JPG`
+  - snippet: Elijah at 17 months (40).JPG Takeout/Drive/Unorganized/Elijah at 17 months (40).JPG
+- `Elijah at 17 months (4).JPG` | terms: Elijah | source ZIP: `takeout-20260602T071913Z-11-025.zip` | entry: `Takeout/Drive/Unorganized/Elijah at 17 months (4).JPG`
+  - snippet: Elijah at 17 months (4).JPG Takeout/Drive/Unorganized/Elijah at 17 months (4).JPG
+- `Elijah typing on the laptop_Dec 2010.MOV` | terms: Elijah | source ZIP: `takeout-20260602T071913Z-11-025.zip` | entry: `Takeout/Drive/Unorganized/Elijah typing on the laptop_Dec 2010.MOV`
+  - snippet: Elijah typing on the laptop_Dec 2010.MOV Takeout/Drive/Unorganized/Elijah typing on the laptop_Dec 2010.MOV
+- `Elijah at 17 months (39).JPG` | terms: Elijah | source ZIP: `takeout-20260602T071913Z-11-025.zip` | entry: `Takeout/Drive/Unorganized/Elijah at 17 months (39).JPG`
+  - snippet: Elijah at 17 months (39).JPG Takeout/Drive/Unorganized/Elijah at 17 months (39).JPG
+- `Elijah at 17 months (3).JPG` | terms: Elijah | source ZIP: `takeout-20260602T071913Z-11-025.zip` | entry: `Takeout/Drive/Unorganized/Elijah at 17 months (3).JPG`
+  - snippet: Elijah at 17 months (3).JPG Takeout/Drive/Unorganized/Elijah at 17 months (3).JPG
+- `Elijah at 17 months (7).JPG` | terms: Elijah | source ZIP: `takeout-20260602T071913Z-11-025.zip` | entry: `Takeout/Drive/Unorganized/Elijah at 17 months (7).JPG`
+  - snippet: Elijah at 17 months (7).JPG Takeout/Drive/Unorganized/Elijah at 17 months (7).JPG
+- `Elijah at 17 months (29).JPG` | terms: Elijah | source ZIP: `takeout-20260602T071913Z-11-025.zip` | entry: `Takeout/Drive/Unorganized/Elijah at 17 months (29).JPG`
+  - snippet: Elijah at 17 months (29).JPG Takeout/Drive/Unorganized/Elijah at 17 months (29).JPG
+- `Elijah at 17 months (38).JPG` | terms: Elijah | source ZIP: `takeout-20260602T071913Z-11-025.zip` | entry: `Takeout/Drive/Unorganized/Elijah at 17 months (38).JPG`
+  - snippet: Elijah at 17 months (38).JPG Takeout/Drive/Unorganized/Elijah at 17 months (38).JPG
+- `Elijah at 17 months (28).JPG` | terms: Elijah | source ZIP: `takeout-20260602T071913Z-11-025.zip` | entry: `Takeout/Drive/Unorganized/Elijah at 17 months (28).JPG`
+  - snippet: Elijah at 17 months (28).JPG Takeout/Drive/Unorganized/Elijah at 17 months (28).JPG
+- `Elijah at 17 months (36).JPG` | terms: Elijah | source ZIP: `takeout-20260602T071913Z-11-025.zip` | entry: `Takeout/Drive/Unorganized/Elijah at 17 months (36).JPG`
+  - snippet: Elijah at 17 months (36).JPG Takeout/Drive/Unorganized/Elijah at 17 months (36).JPG
+- `Elijah at 17 months (35).JPG` | terms: Elijah | source ZIP: `takeout-20260602T071913Z-11-025.zip` | entry: `Takeout/Drive/Unorganized/Elijah at 17 months (35).JPG`
+  - snippet: Elijah at 17 months (35).JPG Takeout/Drive/Unorganized/Elijah at 17 months (35).JPG
+- `Elijah at 17 months (26).JPG` | terms: Elijah | source ZIP: `takeout-20260602T071913Z-11-025.zip` | entry: `Takeout/Drive/Unorganized/Elijah at 17 months (26).JPG`
+  - snippet: Elijah at 17 months (26).JPG Takeout/Drive/Unorganized/Elijah at 17 months (26).JPG
+- `Elijah at 17 months (34).JPG` | terms: Elijah | source ZIP: `takeout-20260602T071913Z-11-025.zip` | entry: `Takeout/Drive/Unorganized/Elijah at 17 months (34).JPG`
+  - snippet: Elijah at 17 months (34).JPG Takeout/Drive/Unorganized/Elijah at 17 months (34).JPG
+- `Elijah at 17 months (27).JPG` | terms: Elijah | source ZIP: `takeout-20260602T071913Z-11-025.zip` | entry: `Takeout/Drive/Unorganized/Elijah at 17 months (27).JPG`
+  - snippet: Elijah at 17 months (27).JPG Takeout/Drive/Unorganized/Elijah at 17 months (27).JPG
+- `Elijah at 17 months (25).JPG` | terms: Elijah | source ZIP: `takeout-20260602T071913Z-11-025.zip` | entry: `Takeout/Drive/Unorganized/Elijah at 17 months (25).JPG`
+  - snippet: Elijah at 17 months (25).JPG Takeout/Drive/Unorganized/Elijah at 17 months (25).JPG
+- `Elijah at 17 months (31).JPG` | terms: Elijah | source ZIP: `takeout-20260602T071913Z-11-025.zip` | entry: `Takeout/Drive/Unorganized/Elijah at 17 months (31).JPG`
+  - snippet: Elijah at 17 months (31).JPG Takeout/Drive/Unorganized/Elijah at 17 months (31).JPG
+- `Elijah at 17 months (32).JPG` | terms: Elijah | source ZIP: `takeout-20260602T071913Z-11-025.zip` | entry: `Takeout/Drive/Unorganized/Elijah at 17 months (32).JPG`
+  - snippet: Elijah at 17 months (32).JPG Takeout/Drive/Unorganized/Elijah at 17 months (32).JPG
+- `Elijah at 17 months (30).JPG` | terms: Elijah | source ZIP: `takeout-20260602T071913Z-11-025.zip` | entry: `Takeout/Drive/Unorganized/Elijah at 17 months (30).JPG`
+  - snippet: Elijah at 17 months (30).JPG Takeout/Drive/Unorganized/Elijah at 17 months (30).JPG
+- `Elijah at 17 months (24).JPG` | terms: Elijah | source ZIP: `takeout-20260602T071913Z-11-025.zip` | entry: `Takeout/Drive/Unorganized/Elijah at 17 months (24).JPG`
+  - snippet: Elijah at 17 months (24).JPG Takeout/Drive/Unorganized/Elijah at 17 months (24).JPG
+- `Elijah at 17 months (19).JPG` | terms: Elijah | source ZIP: `takeout-20260602T071913Z-11-025.zip` | entry: `Takeout/Drive/Unorganized/Elijah at 17 months (19).JPG`
+  - snippet: Elijah at 17 months (19).JPG Takeout/Drive/Unorganized/Elijah at 17 months (19).JPG
+- `Elijah at 17 months (21).JPG` | terms: Elijah | source ZIP: `takeout-20260602T071913Z-11-025.zip` | entry: `Takeout/Drive/Unorganized/Elijah at 17 months (21).JPG`
+  - snippet: Elijah at 17 months (21).JPG Takeout/Drive/Unorganized/Elijah at 17 months (21).JPG
+- `Elijah at 17 months (2).JPG` | terms: Elijah | source ZIP: `takeout-20260602T071913Z-11-025.zip` | entry: `Takeout/Drive/Unorganized/Elijah at 17 months (2).JPG`
+  - snippet: Elijah at 17 months (2).JPG Takeout/Drive/Unorganized/Elijah at 17 months (2).JPG
+- `Elijah at 17 months (20).JPG` | terms: Elijah | source ZIP: `takeout-20260602T071913Z-11-025.zip` | entry: `Takeout/Drive/Unorganized/Elijah at 17 months (20).JPG`
+  - snippet: Elijah at 17 months (20).JPG Takeout/Drive/Unorganized/Elijah at 17 months (20).JPG
+- `Elijah at 17 months (22).JPG` | terms: Elijah | source ZIP: `takeout-20260602T071913Z-11-025.zip` | entry: `Takeout/Drive/Unorganized/Elijah at 17 months (22).JPG`
+  - snippet: Elijah at 17 months (22).JPG Takeout/Drive/Unorganized/Elijah at 17 months (22).JPG
+- `Elijah at 17 months (18).JPG` | terms: Elijah | source ZIP: `takeout-20260602T071913Z-11-025.zip` | entry: `Takeout/Drive/Unorganized/Elijah at 17 months (18).JPG`
+  - snippet: Elijah at 17 months (18).JPG Takeout/Drive/Unorganized/Elijah at 17 months (18).JPG
+- `Elijah at 17 months (16).JPG` | terms: Elijah | source ZIP: `takeout-20260602T071913Z-11-025.zip` | entry: `Takeout/Drive/Unorganized/Elijah at 17 months (16).JPG`
+  - snippet: Elijah at 17 months (16).JPG Takeout/Drive/Unorganized/Elijah at 17 months (16).JPG
+- `Elijah at 17 months (17).JPG` | terms: Elijah | source ZIP: `takeout-20260602T071913Z-11-025.zip` | entry: `Takeout/Drive/Unorganized/Elijah at 17 months (17).JPG`
+  - snippet: Elijah at 17 months (17).JPG Takeout/Drive/Unorganized/Elijah at 17 months (17).JPG
+- `Elijah at 17 months (15).JPG` | terms: Elijah | source ZIP: `takeout-20260602T071913Z-11-025.zip` | entry: `Takeout/Drive/Unorganized/Elijah at 17 months (15).JPG`
+  - snippet: Elijah at 17 months (15).JPG Takeout/Drive/Unorganized/Elijah at 17 months (15).JPG
+- `Elijah at 17 months (13).JPG` | terms: Elijah | source ZIP: `takeout-20260602T071913Z-11-025.zip` | entry: `Takeout/Drive/Unorganized/Elijah at 17 months (13).JPG`
+  - snippet: Elijah at 17 months (13).JPG Takeout/Drive/Unorganized/Elijah at 17 months (13).JPG
+- `Elijah at 17 months (10).JPG` | terms: Elijah | source ZIP: `takeout-20260602T071913Z-11-025.zip` | entry: `Takeout/Drive/Unorganized/Elijah at 17 months (10).JPG`
+  - snippet: Elijah at 17 months (10).JPG Takeout/Drive/Unorganized/Elijah at 17 months (10).JPG
+- `Elijah at 17 months (14).JPG` | terms: Elijah | source ZIP: `takeout-20260602T071913Z-11-025.zip` | entry: `Takeout/Drive/Unorganized/Elijah at 17 months (14).JPG`
+  - snippet: Elijah at 17 months (14).JPG Takeout/Drive/Unorganized/Elijah at 17 months (14).JPG
+- `Elijah at 17 months (12).JPG` | terms: Elijah | source ZIP: `takeout-20260602T071913Z-11-025.zip` | entry: `Takeout/Drive/Unorganized/Elijah at 17 months (12).JPG`
+  - snippet: Elijah at 17 months (12).JPG Takeout/Drive/Unorganized/Elijah at 17 months (12).JPG
+- `Elijah and Micah playing with cars_Dec 2010 (3).MOV` | terms: Elijah | source ZIP: `takeout-20260602T071913Z-11-025.zip` | entry: `Takeout/Drive/Unorganized/Elijah and Micah playing with cars_Dec 2010 (3).MOV`
+  - snippet: Elijah and Micah playing with cars_Dec 2010 (3).MOV Takeout/Drive/Unorganized/Elijah and Micah playing with cars_Dec 2010 (3).MOV
+- `Elijah and Micah playing with cars_Dec 2010 (2).MOV` | terms: Elijah | source ZIP: `takeout-20260602T071913Z-11-025.zip` | entry: `Takeout/Drive/Unorganized/Elijah and Micah playing with cars_Dec 2010 (2).MOV`
+  - snippet: Elijah and Micah playing with cars_Dec 2010 (2).MOV Takeout/Drive/Unorganized/Elijah and Micah playing with cars_Dec 2010 (2).MOV
+- `Elijah at 17 months (11).JPG` | terms: Elijah | source ZIP: `takeout-20260602T071913Z-11-025.zip` | entry: `Takeout/Drive/Unorganized/Elijah at 17 months (11).JPG`
+  - snippet: Elijah at 17 months (11).JPG Takeout/Drive/Unorganized/Elijah at 17 months (11).JPG
+- `Elijah at 17 months (1).JPG` | terms: Elijah | source ZIP: `takeout-20260602T071913Z-11-025.zip` | entry: `Takeout/Drive/Unorganized/Elijah at 17 months (1).JPG`
+  - snippet: Elijah at 17 months (1).JPG Takeout/Drive/Unorganized/Elijah at 17 months (1).JPG
+- `Elijah and Micah playing with cars_Dec 2010 (1).MOV` | terms: Elijah | source ZIP: `takeout-20260602T071913Z-11-025.zip` | entry: `Takeout/Drive/Unorganized/Elijah and Micah playing with cars_Dec 2010 (1).MOV`
+  - snippet: Elijah and Micah playing with cars_Dec 2010 (1).MOV Takeout/Drive/Unorganized/Elijah and Micah playing with cars_Dec 2010 (1).MOV
+- `Dad and Elijah playing_Nov 2010 (1).MOV` | terms: Elijah | source ZIP: `takeout-20260602T071913Z-11-025.zip` | entry: `Takeout/Drive/Unorganized/Dad and Elijah playing_Nov 2010 (1).MOV`
+  - snippet: Dad and Elijah playing_Nov 2010 (1).MOV Takeout/Drive/Unorganized/Dad and Elijah playing_Nov 2010 (1).MOV
+- `Dad and Elijah playing_Nov 2010 (2).MOV` | terms: Elijah | source ZIP: `takeout-20260602T071913Z-11-026.zip` | entry: `Takeout/Drive/Unorganized/Dad and Elijah playing_Nov 2010 (2).MOV`
+  - snippet: Dad and Elijah playing_Nov 2010 (2).MOV Takeout/Drive/Unorganized/Dad and Elijah playing_Nov 2010 (2).MOV
+- `HELO FARMACEUTICAL, LLC - PHASE ONE BUDGET.xlsx` | terms: HELO | source ZIP: `takeout-20260602T071913Z-11-026.zip` | entry: `Takeout/Drive/HELO FARMACEUTICAL, LLC - PHASE ONE BUDGET.xlsx`
+  - snippet: AME? #NAME? #NAME? #NAME? 125 AA$23+AD$21 #NAME? AD23+AE21 #NAME? #NAME? #NAME? #NAME? #NAME? #NAME? #NAME? #NAME? #NAME? #NAME? #NAME? 126 600000.0 132 Baseline Percentage Year 1 HELO FARMACEUTICALS - Phase One Budget License Type Investment Cost Yield/yr Wholesale Price Yearly Gross Sales Yearly Fixed Costs Net Small Mixed-Light Tier 1 Baseline Percentage Nov Dec Jan Feb Mar April May June July August Sept Oct Totals Nov Wholesale Revenue Wholesale Revenue Pre Sale ICO Retail Revenue Payment Processing (251 Disp…
+- `Elijah at 17 months (37).JPG` | terms: Elijah | source ZIP: `takeout-20260602T071913Z-11-026.zip` | entry: `Takeout/Drive/Pictures/2010/Elijah at 17 months (37).JPG`
+  - snippet: Elijah at 17 months (37).JPG Takeout/Drive/Pictures/2010/Elijah at 17 months (37).JPG
+- `Elijah at 17 months (36).JPG` | terms: Elijah | source ZIP: `takeout-20260602T071913Z-11-026.zip` | entry: `Takeout/Drive/Pictures/2010/Elijah at 17 months (36).JPG`
+  - snippet: Elijah at 17 months (36).JPG Takeout/Drive/Pictures/2010/Elijah at 17 months (36).JPG
+- `Elijah at 17 months (35).JPG` | terms: Elijah | source ZIP: `takeout-20260602T071913Z-11-026.zip` | entry: `Takeout/Drive/Pictures/2010/Elijah at 17 months (35).JPG`
+  - snippet: Elijah at 17 months (35).JPG Takeout/Drive/Pictures/2010/Elijah at 17 months (35).JPG
+- `Cambria Massage Therapy.html` | terms: Gmail address | source ZIP: `takeout-20260602T071913Z-11-026.zip` | entry: `Takeout/Drive/Smiley Face — Converted from Classic Sites/DRAFT/Cambria Massage Therapy.html`
+  - snippet: Smiley Face - Cambria Massage Therapy Skip to main content Skip to navigation Smiley Face Home 2015 NBA Finals Tickets Best Cosmetic Dentist in Lompoc Dr Thomas Hurd Best Cosmetic Dentist Port Orange Buy Discounted NBA Finals Tickets for the 2015 Series! Cambria Massage Cambria Massage Therapy Cambria Massage Therapy Rita Benavides Day Spa Business Plan Daytona Beach Real Estate Do It Works! Wraps Work? Garcinia Cambogia 80% HCA1432234457 Garcinia Cambogia 801432234447 Garcinia Cambogia 801432234454 Garcinia Cambo…
+- `InSPA-BuyersList.xlsx` | terms: Gmail address | source ZIP: `takeout-20260602T071913Z-11-026.zip` | entry: `Takeout/Drive/InSPA-BuyersList.xlsx`
+  - snippet: lon & Spa fourelementsspa@yahoo.com Kaye Chen-Cousins Rejuvenation (876) 978-3544 (Work) rejuvenationja@gmail.com 115 Hope Road, shop#22, Liguanea Post Mall Kingston 6 Keegan Hurd keeganhurd@gmail.com Kimberly Marin Body Sculptures Centers of Florida (954) 560-6659 (Work) kim@bodysculpturecenters.com 2645 SW 37th Avenue Suite 701 Kowana Johnson Ageless Medical New York (212) 274-1705 (Work) agelessmedicalny@gmail.com 101 Lafayette Street 6th Floor Kris Mares Renewal Skin Care Studio (907) 262-3570 (Work) krismares…

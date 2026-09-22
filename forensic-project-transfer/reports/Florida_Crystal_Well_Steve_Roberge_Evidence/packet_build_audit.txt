@@ -1,0 +1,26 @@
+Florida Crystal packet build audit
+Generated: 2026-07-28T10:05:55
+Output: C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\_forensic_outputs\Florida_Crystal_Well_Steve_Roberge_Evidence
+
+Included CE IDs:
+- CE-005 / EX-062: Google Business Profile message thread with Brianna Tucker and Florida Crystal Well & Sprinkler
+- CE-006 / EX-063: Google Business Profile chat settings showing Florida Crystal Well & Sprinkler as a business
+- CE-007 / EX-064: Florida Crystal customer-message thread involving Ray and Steve Roberge
+- CE-008 / EX-065: Florida Crystal customer-message thread involving Brianna Tucker and Steve Roberge
+- CE-009 / EX-066: Florida Crystal customer/lead message list and business contact records
+- CE-010 / EX-067: Google Business Profile account list showing Florida Crystal Well & Sprinkler
+- CE-015 / EX-071: Gmail message from Google Business Profile about Brianna Tucker contacting Florida Crystal
+
+Source documents:
+- Messages.html export: exists - C:\Users\thoma\Documents\Cyber Crimes\Hurd Evidence 2024-05-08\Hurd Evidence 2024-05-08\Messages\HTML\Messages.html
+- Unique capture/send event table: exists - C:\Users\thoma\Documents\Cyber Crimes Tools\POPD Final Supplemental Packet\Unique_Capture_Send_Events.csv
+- Google Photos correlation table: exists - C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\_forensic_outputs\Google_Photos_Phone_Artifact_Corroboration.csv
+- Device metadata audit: exists - C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\_forensic_outputs\Device_Metadata_Audit_Capture_Send_Events.csv
+- Google Business Profile data: exists - C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\Google Business Profile\account-109822854878924139108\location-7701250605898456430\data.json
+- Google Business Profile additional data: exists - C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\Google Business Profile\account-109822854878924139108\location-7701250605898456430\additionalData.json
+- Google Business Profile admin record: exists - C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\Google Business Profile\account-109822854878924139108\location-7701250605898456430\locationAdmin-107360321583352836224.json
+
+Limits:
+- This packet does not identify the physical user of the phone.
+- Native iPhone and provider records are needed to authenticate sender/recipient handles, attachment GUIDs, deletion status, and account session details.
+- Customer/lead information should be handled as sensitive business data.

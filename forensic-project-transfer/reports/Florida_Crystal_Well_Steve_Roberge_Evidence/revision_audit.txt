@@ -1,0 +1,22 @@
+Florida Crystal revised packet audit
+Generated: 2026-07-28T21:49:52
+
+Headings changed: title/subtitle revised; first-page sections replaced with ownership, strongest chain, conclusion, related investigation, and request.
+"Mom" references replaced: user-facing labels now use 386-347-0544; one explanatory source-label note remains near CE-008 as requested.
+Recipient-number source used: C:\Users\thoma\Documents\Cyber Crimes Tools\POPD Final Supplemental Packet\Unique_Capture_Send_Events.csv; relevant rows state '13863470544 / 1-386-347-0544 visible in export text; not a structured handle.'
+Evidence tiering: Tier 1 CE-008, CE-015, CE-007; Tier 2 CE-009, CE-010; Tier 3 CE-005, CE-006.
+Timing values verified against merged Unique_Capture_Send_Events.csv and Google_Photos_Phone_Artifact_Corroboration.csv.
+Paths moved to appendices: complete source paths and full hashes appear in Appendix B and included_evidence_manifest.csv.
+Encoding corrections: malformed narrow-space filename artifacts normalized for display only; original source paths remain preserved in Appendix B/manifest.
+
+Timing values:
+- CE-005: capture=2024-04-25 12:23:36 backup=2024-04-25 12:23:37 backup_delta=1 transmission=not parsed transmission_delta=not parsed
+- CE-006: capture=2024-04-25 12:26:18 backup=2024-04-25 12:26:19 backup_delta=1 transmission=not parsed transmission_delta=not parsed
+- CE-007: capture=2024-04-25 12:28:23 backup=2024-04-25 12:28:23 backup_delta=0 transmission=2024/04/25 12:28:44 transmission_delta=21
+- CE-008: capture=2024-04-25 12:29:02 backup=2024-04-25 12:29:02 backup_delta=0 transmission=2024/04/25 12:29:14 transmission_delta=12
+- CE-009: capture=2024-04-25 12:32:17 backup=2024-04-25 12:32:17 backup_delta=0 transmission=2024/04/25 12:32:46 transmission_delta=29
+- CE-010: capture=2024-04-25 12:33:27 backup=2024-04-25 12:33:27 backup_delta=0 transmission=2024/04/25 12:33:47 transmission_delta=20
+- CE-015: capture=2024-04-25 12:48:04 backup=2024-04-25 12:48:05 backup_delta=1 transmission=2024/04/25 12:48:16 transmission_delta=12
+
+Unresolved verification issue:
+- No separately supplied final signed/notarized Steve Roberge affidavit text was found locally; Appendix D is therefore marked draft.

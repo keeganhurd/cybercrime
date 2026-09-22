@@ -1,0 +1,6 @@
+# Original/re-downloadable source archives and bulk mailbox exports stay off GitHub.
+*.mbox
+Takeout Zips/
+Takeout Extracted/Takeout/
+MBOX_Relevant_Hits.csv
+media.zip

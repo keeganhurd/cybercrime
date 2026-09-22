@@ -1,0 +1,10 @@
+﻿Service,PresentInDownloadedZips,NumberOfFiles,ExtractedFiles,EvidenceHits,DirectAccessHits,Notes
+Access Log Activity,Yes,2,2,0,0,"Present in inventory/extraction, but no strict evidence hit was identified in first-pass hits."
+My Activity,Yes,263,39,621,0,"Present with evidence hits, but no Tier 1 direct-access hit after strict triage."
+Google Account,Yes,2,2,0,0,"Present in inventory/extraction, but no strict evidence hit was identified in first-pass hits."
+Alerts,Yes,1,1,0,0,"Present in inventory/extraction, but no strict evidence hit was identified in first-pass hits."
+Drive,Yes,171,29,1,0,"Present with evidence hits, but no Tier 1 direct-access hit after strict triage."
+Google Business Profile,Yes,2948,1545,0,0,"Present in inventory/extraction, but no strict evidence hit was identified in first-pass hits."
+Android Device Configuration Service,Yes,1,1,0,0,"Present in inventory/extraction, but no strict evidence hit was identified in first-pass hits."
+Chrome,Yes,12,11,0,0,"Present in inventory/extraction, but no strict evidence hit was identified in first-pass hits."
+Google Photos metadata,Yes,485,243,0,0,"Present in inventory/extraction, but no strict evidence hit was identified in first-pass hits."

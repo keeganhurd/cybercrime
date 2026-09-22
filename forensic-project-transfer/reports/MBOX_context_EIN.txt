@@ -1,0 +1,149 @@
+4152- bh=6DBPKXO8AjQQa66e105WVCGCPClv4jC5Y/AMqAiTZFo=;
+4153- b=R5jyoiK4RkjwPqWEXAvcdI9c2dm+wX8Q3kgaImjKdTQHmNEH6Y0bkSK5v60ZEyzbLTLthF/HXZHJ
+4154:   Bu3hyeIn/E7cA3aXonLV0J49m4kZB+fNzDXggHpBgQUe2Z1hhLBNE5lP5ZVl0uDuqcvII3uyNlr1
+4155-   fsZ49InWvLvy4utJ/KU=
+4156-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=fbldkim7; d=s7.y.mc.salesforce.com;
+--
+5095-                                <td align="center">
+5096-                                    <div>
+5097:                                        <!--[if mso]>   <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" mc-deep-link= "False" href="https://usa.experian.com/login/index?refUrl=%2Fmfe%2Fcredit%2Fcredithub%2Fexperian%3Fsection%3DscoreIngredients&m=C633C272-3F6F-51BB-ACD0-CB929115D902&pc=crm_exp_0&cc=emm_a_m_act_STD810130SEG01820260531_CreditFactorsSubCat_20260531_x_104" style="height:52px;v-text-anchor:middle;mso-wrap-style:none;mso-position-horizontal: center;" arcsize="10%" stroke="f" fillcolor="#AF1685" color="#ffffff">     <w:anchorlock/>     <center>   <![endif]-->
+5098-                                        <a class="mobilebutton"  href="https://click.e.usa.experian.com/u/?qs=ABB7InYiOjEsImQiOjQ4OTN9AAcAAAAAAhyGkfNZoFypesMfn0ySPa_RUotzdyKOY4MwLOEouQixhW_1A5mW-RJJS1y82JGG3YP7nsjwACecArfZx-GvjHwTUsGFI0tPlKDLCfStZtwMv08" style="background-color:#AF1685; color:#ffffff; border-radius:5px;display:inline-block;font-family: Roboto, sans-serif;font-size:16px;font-weight:bold;line-height: 52px;text-align:center;text-decoration:none;-webkit-text-size-adjust:none;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; See your rating  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</a>
+5099-                                        <!--[if mso]>     </center>   </v:roundrect> <![endif]-->
+--
+9155-         DdaYYSGGqonkizii1fkmHCsCVxSujpocfTNxUi+T6SoTtkRUkwafZvDH0qN0ln/Lady4
+9156-         7cK1KTRo6D/kyUpCssnPkbusiLAdDFMEn9mLVxl041OeGcWvTvIWgpnJ19oeyL3cBzN2
+9157:         XboQEINl8i4cV0kK4rgIOY6yoXpI88yz13w++GHJ1x8LdBqlliV0cpVqSDdV+9MazVCh
+9158-         ApXA==
+9159-X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+--
+10449-
+10450- 
+10451:https://click.parlermailer.com/?qs=ABB7InYiOjEsImQiOjQ4OTR9AAwAAAAAAPSOJ04tYWh3Gp_SL1KdJz8nK1tdUFLtZ9nHxMP9l1v2PWQNmm25Kd4dmtQLj6K1iH8ZKKoWLm6TuEUNKu9dK2jIses8jTuVHflV9eiN 
+10452-View in browser
+10453-A Special Message from our SponsorPlease note that views expressed in this message do not necessarily reflect those of Free Speech Daily and do not constitute an endorsement or recommendation by Free Speech Daily.
+--
+13926-=09=09=09
+13927-=09=09=09Rumble may receive compensation from=
+13928: the sale of the products or services advertised herein.
+13929-=09=09
+13930-=09
+--
+14288-=09=09=09Rumble may r=
+14289-eceive compensation from the sale of the products or services advertised he=
+14290:rein.
+14291-=09=09</p>
+14292-=09</td>
+--
+14439-
+14440-  
+14441:Please do not reply to this email. This email is being sent from: Navy Federal Credit Union, P.O. Box 3000, Merrifield, VA 22119-3000. 
+14442-
+14443-https://click.email.navyfederal.org/?qs=ABB7InYiOjEsImQiOjQ4OTR9AAwAAAAAAPJCVDAMEAu5W35q3SIgskyWOnq0BEu-omVVjphv_72gkt1eb1QzxiyKzEhdeAdXNijaR7Z1AHPFzCllMrp_vKzvIV77YjjTTiAcgj0 
+--
+14756-<a   data-linkto="https://" href="https://click.email.navyfederal.org/?qs=ABB7InYiOjEsImQiOjQ4OTR9AAwAAAAAAPJCVC__A20VUkaXag4ZfWlC-DIgEa9ENKj4WorAvipgsEVq4OxafO_P3DmtpjFr_3xxhFjlV0ZramKLoGwaMRnSArUxkPxy7Q-vAJE" style="color:#0176d3;text-decoration:none;" title="Privacy Policy">Privacy Policy</a><!-- |&nbsp; <a alias="V" conversion="false" data-linkto="https://" href="https://view.email.navyfederal.org/?vawpToken=SWDM5L7RDTUEVEJKVSHBTQBP3E.120042" style="color:#0176d3;text-decoration:none;" title="View in Browser">View in Browser</a>--></span></span><br>
+14757- &nbsp;<p style="font-family:Helvetica Neue, Helvetica,Arial, sans-serif; color: #68696A; text-decoration: none; display:block; font-size: 12px; line-height: 20px; mso-line-height-rule:exactly; font-weight: 400; margin: 0px 0px 5px 0px;">
+14758:  <span style="color:#68696a;"><span style="font-size: 12px;">Please do not reply to this email. This email is being sent from: Navy Federal Credit Union, P.O. Box 3000, Merrifield, VA 22119-3000.&nbsp;</span></span></p><p style="font-family:Helvetica Neue, Helvetica,Arial, sans-serif; color: #68696A; text-decoration: none; display:block; font-size: 12px; line-height: 20px; mso-line-height-rule:exactly; font-weight: 400; margin: 0px 0px 5px 0px;">
+14759-  <span style="color:#68696a;"><a class="hoverTxt" href="https://click.email.navyfederal.org/?qs=ABB7InYiOjEsImQiOjQ4OTR9AAwAAAAAAPJCVDAAQdxn0CPOwiP4lRRxQFupkPKcOjyBjwxSTn7fgmc4LSpd7U4W_Om6XDcANptxXywt1FkamOWVlCaQyx0ZyeFAM1Ij5glKts4" style="text-decoration:none; color:#0067BA; font-weight:500;"><img alt="EHL Logo" src="https://www.navyfederal.org/content/dam/email/logos/ehl-blue.png" width="16">&nbsp;Equal Housing Lender</a>&nbsp;|&nbsp;<span class="noBreak">&copy; <span id="copyright-year--editable">2026</span></span> Navy Federal Credit Union. All rights reserved.&nbsp;<span class="noBreak">NFCU DNS <span id="template-code--editable" style="white-space: nowrap;">35673 (07-22)</span></span> </span></p><span style="color:#68696a;"> </span><p style="font-family:Helvetica Neue, Helvetica,Arial, sans-serif; color: #68696A; text-decoration: none; display:block; font-size: 16px; line-height: 20px; mso-line-height-rule:exactly; font-weight: 600; margin: 0;">
+14760-  <span style="color:#68696a;">Navy Federal is federally insured by NCUA.</span></p></div></td></tr></table><br>
+--
+14832-   yWr7It2J6Bh/3iyrM4xFnJmNW6QM9c8fOhPbEC1HwbSx0MnGa9lxekddSQLpLgo2EyrBY2OeROGN
+14833-   kUF22+gcPg5gQPovziQz1YO4zt1MPKV72laRppbB6ycnK2yFcAN7aQFJQ0sTQhJFBr7pi9pKPkj5
+14834:   t36F3fC5rqOSCxbttWCRVchg+oYEa6/zqbjNrOqGLz632lRcBAm3BlqmsB8rKOfPwr6t7R8eInBV
+14835-   riq0oqj3VeMPJDMRjBU1p5zQHJjAP11HHkrtHQ==
+14836-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=fbldkim12; d=s12.y.mc.salesforce.com;
+--
+14918-
+14919-  
+14920:Please do not reply to this email. This email is being sent from: Navy Federal Credit Union, P.O. Box 3000, Merrifield, VA 22119-3000. 
+14921-
+14922-https://click.email.navyfederal.org/?qs=ABB7InYiOjEsImQiOjQ4OTR9AAwAAAAAAPJCU4KHJdWVcDIg-BGGhc44RLSstznmFVyBfVv3k1CxSMoC97NOxYJ5HJ4OnvWf0k0y-Z-WYVHDeQpRAMGWTxX_KYTWQqJbitNUL6I 
+--
+15235-<a   data-linkto="https://" href="https://click.email.navyfederal.org/?qs=ABB7InYiOjEsImQiOjQ4OTR9AAwAAAAAAPJCU4J6AmRmTVNlBa_3u_buAYZ-ImJSYK2sijcR3rHv5tcdEBiHYY2bURQg_37YU3GzHouVXHr7LzRMFzWUOCNCkPlNnhZ7HIqar18" style="color:#0176d3;text-decoration:none;" title="Privacy Policy">Privacy Policy</a><!-- |&nbsp; <a alias="V" conversion="false" data-linkto="https://" href="https://view.email.navyfederal.org/?vawpToken=EGI7WCXHKFLEXF2NV2B7PXY6UA.120040" style="color:#0176d3;text-decoration:none;" title="View in Browser">View in Browser</a>--></span></span><br>
+15236- &nbsp;<p style="font-family:Helvetica Neue, Helvetica,Arial, sans-serif; color: #68696A; text-decoration: none; display:block; font-size: 12px; line-height: 20px; mso-line-height-rule:exactly; font-weight: 400; margin: 0px 0px 5px 0px;">
+15237:  <span style="color:#68696a;"><span style="font-size: 12px;">Please do not reply to this email. This email is being sent from: Navy Federal Credit Union, P.O. Box 3000, Merrifield, VA 22119-3000.&nbsp;</span></span></p><p style="font-family:Helvetica Neue, Helvetica,Arial, sans-serif; color: #68696A; text-decoration: none; display:block; font-size: 12px; line-height: 20px; mso-line-height-rule:exactly; font-weight: 400; margin: 0px 0px 5px 0px;">
+15238-  <span style="color:#68696a;"><a class="hoverTxt" href="https://click.email.navyfederal.org/?qs=ABB7InYiOjEsImQiOjQ4OTR9AAwAAAAAAPJCU4J7Y4cGqnXUXKOm3IWvSzHO4hwzTc4s1__kDfm5I_NM_PfagMuKrKBQo9qrVbfekC3aDZ-S1wG_gq0K91zov6tmAYVS6db8lHU" style="text-decoration:none; color:#0067BA; font-weight:500;"><img alt="EHL Logo" src="https://www.navyfederal.org/content/dam/email/logos/ehl-blue.png" width="16">&nbsp;Equal Housing Lender</a>&nbsp;|&nbsp;<span class="noBreak">&copy; <span id="copyright-year--editable">2026</span></span> Navy Federal Credit Union. All rights reserved.&nbsp;<span class="noBreak">NFCU DNS <span id="template-code--editable" style="white-space: nowrap;">35673 (07-22)</span></span> </span></p><span style="color:#68696a;"> </span><p style="font-family:Helvetica Neue, Helvetica,Arial, sans-serif; color: #68696A; text-decoration: none; display:block; font-size: 16px; line-height: 20px; mso-line-height-rule:exactly; font-weight: 600; margin: 0;">
+15239-  <span style="color:#68696a;">Navy Federal is federally insured by NCUA.</span></p></div></td></tr></table><br>
+--
+15689-/em></p> <p><strong><span style=3D"color: #cc1a1a;">=E2=9E=A4 </span>A new =
+15690-report </strong>reveals how Bill Gates' carefully crafted public image is u=
+15691:nraveling over his Jeffrey Epstein ties. (<a class=3D"underline underline h=
+15692-over:decoration-current focus:decoration-current" href=3D"https://email.edi=
+15693-tor.jointheflyover.com/c/eJykzz1u4zAQQOHTkJ2F4a_sgsU27rxtSmIkDi0mlCjQYye6fZ=
+--
+15882-an style=3D"color: #cc1a1a;">=E2=9E=A4 </span>Russell Henley</strong> ralli=
+15883-ed late to win the Charles Schwab Challenge on Sunday in Fort Worth, Texas,=
+15884: birdieing the first playoff hole to defeat Eric Cole. Henley closed with t=
+15885-hree straight birdies to force extra holes and secured his sixth PGA Tour v=
+15886-ictory. (<a href=3D"https://email.editor.jointheflyover.com/c/eJykkDGSpDAMR=
+--
+16099->More</a>)</p> <div class=3D"h-px w-full pointer-events-none" aria-hidden=
+16100-=3D"true"><strong><span style=3D"color: #cc1a1a;">=E2=9E=A4&nbsp; </span>A =
+16101:YouTuber built</strong> the world's largest remote-controlled Boeing 777, a=
+16102- 630-pound electric replica with a 33-foot wingspan roughly the size of a C=
+16103-essna 150. Filmmaker Tyler Perry flew its maiden flight. (<a class=3D"under=
+--
+22903- and refugees of Ukraine, continue to operate the Friends of Zion Museum, a=
+22904-nd to meet urgent humanitarian needs among the poor Jewish people living in=
+22905: Israel. Thank you so much for being part of this vital worldwide prayer mo=
+22906-vement.=20
+22907-
+--
+23018- and refugees of Ukraine, continue to operate the Friends of Zion Museum, a=
+23019-nd to meet urgent humanitarian needs among the poor Jewish people living in=
+23020: Israel. Thank you so much for being part of this vital worldwide prayer mo=
+23021-vement.=20
+23022-<br />
+--
+23192-
+23193-What used to cost a million dollars and a development team now costs a week=
+23194:end and almost nothing. I'm not being cute about that.
+23195-I mean it literally.
+23196-
+--
+23473-ze: 20px; font-family: arial, helvetica, sans-serif">What used to cost a mi=
+23474-llion dollars and a development team now costs a weekend and almost nothing=
+23475:=2E I'm not being cute about that. I m=
+23476-ean it literally.</span></p><p style=3D=
+23477-"margin-top: 12pt;margin-bottom: 12pt;" dir=3D"ltr"><span style=3D"color: r=
+--
+27744-acility at Delaney Hall in Newark.
+27745-The riots at the building are about to enter its first week with DHS person=
+27746:nel initially being on their own. On Friday, state troopers showed up to es=
+27747-tablish a zone around Delaney Hall and provide extra manpower.
+27748-When state police ordered the crowd to disperse, the anti-ICE protesters re=
+--
+29112-argin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">=
+29113-The riots at the building are about to enter its first week with DHS person=
+29114:nel initially being on their own. On Friday, state troopers showed up to es=
+29115-tablish a zone around Delaney Hall and provide extra manpower.</p><p style=
+29116-=3D"margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16=
+--
+36170-        bh=sJNigJad1zl3IR3/2dSnGc/Dqwn1ZpLQ+2YcCB8Nj+s=;
+36171-        fh=FdE85SGeOoOKDRta98IfbcZ4EC0xglQgu2ZMpD+vlYw=;
+36172:        b=Qzr/54bz98otlYe4ZE31SbeINzX8/13zIRdPgfi0uhP9UI4MabcMRHUq1KY4Df2/pU
+36173-         iXZQhudPWVOu8qenY4iSwruvplTAQ39flUm4dpyYYJaignKzAxZ3N0poTeYg+7j0ThUt
+36174-         SBapZA1YLUO33AXqtsfllMVIN24uC1JSrVEQoc20QlsphQi5ExhxfIKKAalwI85W3Qhq
+--
+38476-=09=
+38477-=09=09Rumble may receive compensation from the sale of the products or serv=
+38478:ices advertised herein.
+38479-=09=09
+38480-=09
+--
+39215-
+39216-=09=09=09Rumble may receive compensation from the sale of the products o=
+39217:r services advertised herein.
+39218-=09=09</p>
+39219-=09</td>
+--
+42360-Content-Type: multipart/alternative;
+42361- boundary="acfa13be15baa3546eb1d58cdeece13bf7c75b7219855c1bb3af89e8a63d"
+42362:Subject: Bank CEO to testify over Epstein in House Oversight interview
+42363-From: The Capitalist <thecapitalistmag@substack.com>
+42364-To: keeganhurd@gmail.com
+--
+42377-List-Archive: <https://thecapitalistmag.substack.com/archive>
+42378-List-Id: <thecapitalistmag.substack.com>
+42379:List-Post: <https://thecapitalistmag.substack.com/p/bank-ceo-to-testify-over-epstein>
+42380-List-Unsubscribe: <https://thecapitalistmag.substack.com/action/disable_email/disable?token=eyJ1c2VyX2lkIjo4NDg1NTcxLCJwb3N0X2lkIjoyMDAwMjUwMDcsImlhdCI6MTc4MDI2NjQ0NSwiZXhwIjoxODExODAyNDQ1LCJpc3MiOiJwdWItNDcyMDA2OCIsInN1YiI6ImRpc2FibGVfZW1haWwifQ.V-ro3YRM8pqygkiR0t5ha56N0kzaBOWE_dfrzILfKEA&all_sections=true>
+42381-List-Unsubscribe-Post: List-Unsubscribe=One-Click

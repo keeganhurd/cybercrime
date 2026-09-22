@@ -1,0 +1,149 @@
+14834079-Suite, 1 Queen Bed, Accessible (Accessible Tub)
+14834080-
+14834081:Reserved for Jonathan Braese
+14834082-
+14834083-Cancellation policy
+--
+14834914-linkMacSystemFont,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;=
+14834915- color: #180c06; font-size: 16px; font-weight: 400; line-height: 26px; disp=
+14834916:lay: inline-block;">Reserved for Jonathan Braese</div>
+14834917-</div>
+14834918-
+--
+14835190-  <script type=3D"application/json+trustpilot">
+14835191-      {
+14835192:        "recipientName": "Jonathan Braese",
+14835193-        "recipientEmail": "keeganhurd@gmail.com",
+14835194-        "referenceId": "ba0a3527-1938-4cc1-9aef-66e9e61b3db1"
+--
+15484012-<div class="column" style="display: inline-block; width: 100%; vertical-align: middle; overflow: hidden; font-family: Helvetica, Arial, sans-serif;" dir="LTR"></div><!--[if true]></td></tr></table><![endif]--></div></div><div class="wrapper" style="width:100%; padding: 0; margin: 0; text-align: center; font-size: 0; vertical-align: middle; background-color: #EFF3F7;" dir="LTR"><div class="section" style="margin: 0 auto; max-width: 600px; overflow: hidden; background-color: #FFFFFF;"><!--[if true]><table role="presentation" border="0" cellpadding="0" cellspacing="0" align="center" style="width: 450pt; text-align: center; background-color: #FFFFFF;" dir="LTR"><tr><td style="width:450pt; mso-line-height-rule:exactly;"><![endif]--><div class="column" style="display: inline-block; width: 100%; vertical-align: middle; overflow: hidden; font-family: Helvetica, Arial, sans-serif;" dir="LTR"></div><!--[if true]></td></tr></table><![endif]--></div></div>
+15484013-<!-- MODULE END: Itin Details - No Image --><!-- MODULE START: Component - Paragraph --><div class="wrapper" style="width:100%; padding: 0; margin: 0; text-align: center; font-size: 0; vertical-align: middle; background-color: #EFF3F7;" dir="LTR"><div class="section" style="margin: 0 auto; max-width: 600px; overflow: hidden; background-color: #FFFFFF;"><!--[if true]><table role="presentation" border="0" cellpadding="0" cellspacing="0" align="center" style="width: 450pt; text-align: center; background-color: #FFFFFF;" dir="LTR"><tr><td style="width:450pt; mso-line-height-rule:exactly;"><![endif]--><div class="column" style="display: inline-block; width: 100%; vertical-align: middle; overflow: hidden; font-family: Helvetica, Arial, sans-serif;" dir="LTR"><p style="color: #191E3B; font-size: 14px; line-height: 144%; text-align: left; margin: 0px 32px 16px 32px;" class="typography__paragraph_2 p-dark custom-font gutter-margin">Reserved for 
+15484014:<strong style="">Jonathan Braese.</strong></p></div><!--[if true]></td></tr></table><![endif]--></div></div><!-- MODULE END: Component - Paragraph --><!-- MODULE START: Component - Paragraph --><div class="wrapper" style="width:100%; padding: 0; margin: 0; text-align: center; font-size: 0; vertical-align: middle; background-color: #EFF3F7;" dir="LTR"><div class="section" style="margin: 0 auto; max-width: 600px; overflow: hidden; background-color: #FFFFFF;"><!--[if true]><table role="presentation" border="0" cellpadding="0" cellspacing="0" align="center" style="width: 450pt; text-align: center; background-color: #FFFFFF;" dir="LTR"><tr><td style="width:450pt; mso-line-height-rule:exactly;"><![endif]--><div class="column" style="display: inline-block; width: 100%; vertical-align: middle; overflow: hidden; font-family: Helvetica, Arial, sans-serif;" dir="LTR">
+15484015-<p style="color: #191E3B; font-size: 14px; line-height: 144%; text-align: left; margin: 0px 32px 16px 32px;" class="typography__paragraph_2 p-dark custom-font gutter-margin">You booked <strong style="">1 room</strong>.</p></div><!--[if true]></td></tr></table><![endif]--></div></div><!-- MODULE END: Component - Paragraph --><!-- MODULE START: Component - Paragraph --><div class="wrapper" style="width:100%; padding: 0; margin: 0; text-align: center; font-size: 0; vertical-align: middle; background-color: #EFF3F7;" dir="LTR"><div class="section" style="margin: 0 auto; max-width: 600px; overflow: hidden; background-color: #FFFFFF;"><!--[if true]><table role="presentation" border="0" cellpadding="0" cellspacing="0" align="center" style="width: 450pt; text-align: center; background-color: #FFFFFF;" dir="LTR"><tr><td style="width:450pt; mso-line-height-rule:exactly;"><![endif]-->
+15484016-<div class="column" style="display: inline-block; width: 100%; vertical-align: middle; overflow: hidden; font-family: Helvetica, Arial, sans-serif;" dir="LTR"><p style="color: #191E3B; font-size: 14px; line-height: 144%; text-align: left; margin: 0px 32px 16px 32px;" class="typography__paragraph_2 p-dark custom-font gutter-margin"><strong style="">Superior Room, 2 Double Beds, Non Smoking</strong></p></div><!--[if true]></td></tr></table><![endif]--></div></div><!-- MODULE END: Component - Paragraph --><!-- MODULE START: Hero - No Image --><div class="wrapper" style="width:100%; padding: 0; margin: 0; text-align: center; font-size: 0; vertical-align: middle; background-color: #EFF3F7;" dir="LTR"><div class="section" style="margin: 0 auto; max-width: 600px; overflow: hidden; background-color: #FFFFFF;"><!--[if true]>
+--
+15484233-Visa,,EXPEDIA_COLLECT,,1,0,Daytona Beach, United States of America,Baymont by Wyndham Intl Speedway/I-95/Daytona Beach,,,https://expe.onelink.me/Nxg3?pid=BRAND&af_ad=BEX-EML-HOTEL-HOTELPURCHASECONFIRMATION&af_sub_siteid=EXPEDIA-US&c=EVENT-TRIGGERED-MAILING.UMP.MKT-BRIDGE.HOTELPURCHASECONFIRMATION&af_web_dp=https%3A%2F%2Fwww.expedia.com%2Fapp%3Fsiteid%3D1%26locale%3Den_US&deep_link_value=https%3A%2F%2Fwww.expedia.com%2F%3Fcurrency%3DUSD%26locale%3Den_US%26siteid%3D1,,0,,3 PM,,https://www.expedia.com/Hotel-Search?regionId=&startDate=2026-03-30&endDate=2026-03-31&sort=deals&paymentType=FREE_CANCELLATION,2,$6.56,Superior Room, 2 Double Beds, Non Smoking,MERCHANT,0,,0,https://a.travel-assets.com/travel-assets-manager/2025-2026/Sicherungsschein_EI_SA_LOB_Oct25.pdf,,,,undefined,,2026-03-30,+1 404-728-8787,If a late check-in is planned, contact this property directly for their late check-in
+15484234- policy.,https://www.expedia.com/account/rewards,https://www.expedia.com/trip-receipt/73408992349231,$59.06,,+1 800-397-3342,,https://www.expedia.com/trips/73408992349231/details/OWM2NWRkOTktNDc3MS01NDA1LWFmNzctNmVkY2RkZWMzMDRjOzgzYWQ5ODRkLTE1ZGEtNDU3MS04NTk3LTljMDA2Mjk4NWQ2NF8w/manage-booking?siteid=1&locale=en_US,MERCHANT,false,,,false,,,,1,0,0,,,$59.06,$52.50,undefined,,17669,,0,,,,false,,,73408992349231,,,Tel: 1 (386) 255-7412, Fax: 1 (386) 255-5350,Mar 31, 2026,Front desk staff will greet guests on arrival at the property. Information provided by the property may be translated using automated translation tools.
+15484235:<br>,,0,,true,6023995,,Expedia,1,,We understand that sometimes plans fall through. We do not charge a cancel or change fee. When the property charges such fees in accordance with its own policies, the cost will be passed on to you. Baymont by Wyndham Intl Speedway/I-95/Daytona Beach charges the following cancellation and change fees.,undefined,Jonathan Braese,,,0,USD,These fees and deposits only apply if they are not included in your selected room rate.,,NONREFUNDABLE_RATE,No elevators
+15484236-<br>,,0,Rate quotes in USD are based on current exchange rates, which may vary at time of travel. Final payment will be settled in local currency directly with the property.,0,,,Tue, Mar 31,The price DOES NOT include any applicable property service fees, charges for optional incidentals (such as minibar snacks or telephone calls), or regulatory surcharges. The property will assess these fees, charges, and surcharges upon check-out.,,,105,,,https://www.expedia.com/trips/73408992349231/details/OWM2NWRkOTktNDc3MS01NDA1LWFmNzctNmVkY2RkZWMzMDRjOzgzYWQ5ODRkLTE1ZGEtNDU3MS04NTk3LTljMDA2Mjk4NWQ2NF8wOzA?siteid=1,,,,,undefined,,false,,false,,,2026-03-31,We understand that sometimes plans fall through. We do not charge a cancel or change fee. When the property charges such fees in accordance with its own policies, the cost will be passed on to you. Baymont by Wyndham Intl Speedway/I-95/Daytona Beach charges the following cancellation and change fees.,2712,,The room/unit type
+15484237- and rate selected are non-refundable. Should you change or cancel this reservation for any reason, your payment will not be refunded.<br>No refunds will be issued for late check-in or early check-out.<br>Stay extensions require a new reservation.<br>,0,,,https://images.trvl-media.com/lodging/1000000/20000/17700/17669/15558c64_z.jpg,,$59.06,,Base rate is for 2 guests.<br>Total maximum number of guests per room/unit is 4.<br>Maximum number of adults per room/unit is 4.<br>Maximum number of children per room/unit is 3.<br>Maximum number of infants per room/unit is 3.<br>This property considers guests aged 17 and under, at time of travel, to be children.<br>Availability of accommodation in the same property for extra guests is not guaranteed.<br>,11:00 AM,Mar 31, 2026,,,You'll be asked to pay the following charges at the property. Fees may include applicable taxes:<br>â€¢  &nbsp;&nbsp;&nbsp;&nbsp;A damage deposit of USD 100.00 will be collected before check-in.
+--
+15806133-Suite, 1 Queen Bed
+15806134-
+15806135:Reserved for Jonathan Braese
+15806136-
+15806137-Cancellation policy
+--
+15806968-linkMacSystemFont,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;=
+15806969- color: #180c06; font-size: 16px; font-weight: 400; line-height: 26px; disp=
+15806970:lay: inline-block;">Reserved for Jonathan Braese</div>
+15806971-</div>
+15806972-
+--
+15807244-  <script type=3D"application/json+trustpilot">
+15807245-      {
+15807246:        "recipientName": "Jonathan Braese",
+15807247-        "recipientEmail": "keeganhurd@gmail.com",
+15807248-        "referenceId": "6d38e1b5-e72b-4048-966f-e5c8ea1cb1a3"
+--
+27727660-Hi Keegan,
+27727661-
+27727662:=F0=9F=93=B7 Jonathan Braese added a new photo
+27727663-
+27727664-Thanks,
+--
+27727723-height=3D"1" colspan=3D"3" style=3D"line-height:1px;"><span =
+27727724-style=3D"color:#FFFFFF;font-size:1px;opacity:0;">Keegan, here&#039;s =
+27727725:Jonathan Braese&#039;s new photo that he recently =
+27727726-posted.</span></td></tr><tr><td width=3D"16" =
+27727727-style=3D"display:block;width:16px;">&nbsp;&nbsp;&nbsp;</td><td =
+--
+31453839-Hi Keegan,
+31453840-
+31453841:=F0=9F=93=B7 Jonathan Braese added a new photo
+31453842-
+31453843-Thanks,
+--
+31453902-height=3D"1" colspan=3D"3" style=3D"line-height:1px;"><span =
+31453903-style=3D"color:#FFFFFF;font-size:1px;opacity:0;">Keegan, here&#039;s =
+31453904:Jonathan Braese&#039;s new photo that he recently =
+31453905-posted.</span></td></tr><tr><td width=3D"16" =
+31453906-style=3D"display:block;width:16px;">&nbsp;&nbsp;&nbsp;</td><td =
+--
+82267700-Reply-To: no-reply@venmo.com
+82267701-To: keeganhurd@gmail.com
+82267702:Subject: Jonathan Braese wants to be friends with you on Venmo
+82267703-MIME-Version: 1.0
+82267704-Content-Type: multipart/alternative; 
+--
+82267758-           =20
+82267759-                <a style=3D"color:#0074DE" href=3D"https://venmo.com/Jonath=
+82267760:an-Braese-1">Jonathan Braese</a>
+82267761-           =20
+82267762-            wants to be friends with you on Venmo.
+--
+161014619-Reply-To: Venmo No-reply <no-reply@venmo.com>
+161014620-To: keeganhurd@gmail.com
+161014621:Subject: You completed Jonathan Braese's $50.00 charge request
+161014622-MIME-Version: 1.0
+161014623-Content-Type: multipart/alternative; 
+--
+161014689-tps://venmo.com/code?user_id=3D4021782126266286785&actor_id=3D2240798464671=
+161014690-744277">
+161014691:                    Jonathan Braese
+161014692-                </a>
+161014693-                <!-- action -->
+--
+161156120-Reply-To: no-reply@venmo.com
+161156121-To: keeganhurd@gmail.com
+161156122:Subject: Jonathan Braese requests $50.00
+161156123-MIME-Version: 1.0
+161156124-Content-Type: multipart/alternative; 
+--
+161156185-                    <p><a href=3D"https://venmo.com/code?user_id=3D40217821=
+161156186-26266286785&actor_id=3D2240798464671744277" style=3D"color:#0074DE; text-de=
+161156187:coration:none" >Jonathan Braese</a> requests <b>$50.00</b></p>
+161156188-                </div>
+161156189-               =20
+--
+161171523-Reply-To: Venmo No-reply <no-reply@venmo.com>
+161171524-To: keeganhurd@gmail.com
+161171525:Subject: You completed Jonathan Braese's $42.00 charge request
+161171526-MIME-Version: 1.0
+161171527-Content-Type: multipart/alternative; 
+--
+161171593-tps://venmo.com/code?user_id=3D4021782126266286785&actor_id=3D2240798464671=
+161171594-744277">
+161171595:                    Jonathan Braese
+161171596-                </a>
+161171597-                <!-- action -->
+--
+161176097-Reply-To: no-reply@venmo.com
+161176098-To: keeganhurd@gmail.com
+161176099:Subject: Jonathan Braese requests $42.00
+161176100-MIME-Version: 1.0
+161176101-Content-Type: multipart/alternative; 
+--
+161176162-                    <p><a href=3D"https://venmo.com/code?user_id=3D40217821=
+161176163-26266286785&actor_id=3D2240798464671744277" style=3D"color:#0074DE; text-de=
+161176164:coration:none" >Jonathan Braese</a> requests <b>$42.00</b></p>
+161176165-                </div>
+161176166-               =20
+--
+161360048-Reply-To: Venmo No-reply <no-reply@venmo.com>
+161360049-To: keeganhurd@gmail.com
+161360050:Subject: You paid Jonathan Braese $7.51
+161360051-MIME-Version: 1.0
+161360052-Content-Type: multipart/alternative; 
+--
+161360132-86785&actor_id=3D2240798464671744277">
+161360133-                   =20
+161360134:                    Jonathan Braese
+161360135-                </a>
+161360136-               =20
+--
+161559381-Reply-To: no-reply@venmo.com
+161559382-To: keeganhurd@gmail.com
+161559383:Subject: Jonathan Braese requests $5.00 - Eggs
+161559384-MIME-Version: 1.0
+161559385-Content-Type: multipart/alternative; 

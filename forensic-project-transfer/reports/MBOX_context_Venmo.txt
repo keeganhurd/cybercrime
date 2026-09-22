@@ -1,0 +1,108 @@
+50793-        dara=google.com
+50794-ARC-Authentication-Results: i=1; mx.google.com;
+50795:       dkim=pass header.i=@venmo.com header.s=yzlavq3ml4jl4lt6dltbgmnoftxftkly header.b=qTrCnV6L;
+50796-       dkim=pass header.i=@amazonses.com header.s=224i4yxa5dv7c2xz3womw6peuasteono header.b=GJJjct9X;
+50797-       spf=pass (google.com: domain of 0100019e7e622f62-4a897323-a6ac-416d-8346-0a9222c72825-000000@amazonses.com designates 54.240.48.75 as permitted sender) smtp.mailfrom=0100019e7e622f62-4a897323-a6ac-416d-8346-0a9222c72825-000000@amazonses.com;
+50798:       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=venmo.com
+50799-Return-Path: <0100019e7e622f62-4a897323-a6ac-416d-8346-0a9222c72825-000000@amazonses.com>
+50800-Received: from a48-75.smtp-out.amazonses.com (a48-75.smtp-out.amazonses.com. [54.240.48.75])
+--
+50805-Received-SPF: pass (google.com: domain of 0100019e7e622f62-4a897323-a6ac-416d-8346-0a9222c72825-000000@amazonses.com designates 54.240.48.75 as permitted sender) client-ip=54.240.48.75;
+50806-Authentication-Results: mx.google.com;
+50807:       dkim=pass header.i=@venmo.com header.s=yzlavq3ml4jl4lt6dltbgmnoftxftkly header.b=qTrCnV6L;
+50808-       dkim=pass header.i=@amazonses.com header.s=224i4yxa5dv7c2xz3womw6peuasteono header.b=GJJjct9X;
+50809-       spf=pass (google.com: domain of 0100019e7e622f62-4a897323-a6ac-416d-8346-0a9222c72825-000000@amazonses.com designates 54.240.48.75 as permitted sender) smtp.mailfrom=0100019e7e622f62-4a897323-a6ac-416d-8346-0a9222c72825-000000@amazonses.com;
+50810:       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=venmo.com
+50811-DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+50812:	s=yzlavq3ml4jl4lt6dltbgmnoftxftkly; d=venmo.com; t=1780236824;
+50813-	h=From:Reply-To:To:Subject:MIME-Version:Content-Type:Message-ID:Date;
+50814-	bh=BJ5p0q7/9+BgMvfE6blIN56qfnLXGxVKzcWyN7CuFhI=;
+--
+50823-	OuiQJr4YgZ0vn/Owhj26+rMe5MhxrvRCURPy1avRaF6cYT72S5qQJTPINvTVa3Sg0gh
+50824-	aw2J/I29LAsP/c8oMx4NfUzQasHpyURLTLU03+cU=
+50825:From: Venmo <venmo@venmo.com>
+50826:Reply-To: support@venmo.com
+50827-To: keeganhurd@gmail.com
+50828:Subject: Declined Venmo Debit Card purchase due to low balance
+50829-MIME-Version: 1.0
+50830-Content-Type: multipart/alternative; 
+--
+50850-size:16px;font-weight:400;line-height:1.375;text-align:center"><head><meta =
+50851-http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8"><meta na=
+50852:me=3D"viewport" content=3D"width=3Ddevice-width"><title>Declined Venmo Debi=
+50853-t Card purchase due to low balance</title><style>@media only screen{html{mi=
+50854-n-height:100%;background:#f1f2f4}}@media only screen and (max-width:596px){=
+--
+50885-ica,Arial,sans-serif;font-size:16px;font-weight:400;hyphens:auto;line-heigh=
+50886-t:1.375;margin:0;padding:0;text-align:left;vertical-align:top;word-wrap:bre=
+50887:ak-word"><table role=3D"presentation" class=3D"wrapper venmo-logo-container=
+50888-" align=3D"center" style=3D"border-collapse:collapse;border-spacing:0;box-s=
+50889-izing:border-box;color:#2f3033;font-family:'Helvetica Neue',Helvetica,Arial=
+--
+50921-><th style=3D"margin:0;color:#2f3033;font-family:'Helvetica Neue',Helvetica=
+50922-,Arial,sans-serif;font-size:16px;font-weight:400;line-height:1.375;margin:0=
+50923:;padding:0;text-align:left"><img class=3D"venmo-logo" width=3D"110" height=
+50924-=3D"21" src=3D"https://d3f7mhbv11m2z3.cloudfront.net/email-assets/shared/ve=
+50925:nmo-wordmark-v3.png" alt=3D"Venmo logo" style=3D"-ms-interpolation-mode:bic=
+50926-ubic;clear:both;display:block;height:23px;margin:0 auto;max-width:100%;outl=
+50927-ine:0;text-decoration:none;width:110px"></th><th class=3D"expander" style=
+--
+50987-Helvetica,Arial,sans-serif;font-size:18px;font-weight:400;line-height:24px;=
+50988-margin:0;margin-bottom:24px;min-height:auto;padding:0;text-align:left">Ther=
+50989:e wasn't enough money in your Venmo balance to cover this Venmo Debit Card =
+50990-transaction.</p><p class=3D"main-text" style=3D"margin:0;margin-bottom:15px=
+50991-;color:#2f3033;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;font=
+--
+51011-,Arial,sans-serif;font-size:16px;font-weight:400;hyphens:auto;line-height:1=
+51012-.375;margin:0;padding:0;text-align:center;vertical-align:top;word-wrap:brea=
+51013:k-word"><a href=3D"https://venmo.com/debitcard/instant" style=3D"margin:0;b=
+51014-order:0 solid #0074de;border-radius:32px;color:#fff;display:block;font-fami=
+51015-ly:'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:18px;font-weight:7=
+--
+51022-line-height:20px;margin:0;margin-bottom:24px;min-height:80px;padding:0;text=
+51023--align:left">Avoid declined transactions by keeping a minimum balance. <a c=
+51024:lass=3D"link" href=3D"https://venmo.com/autoreloads" target=3D"_blank" rel=
+51025-=3D"noopener noreferrer" style=3D"margin:0;color:#0074de;font-family:'Helve=
+51026-tica Neue',Helvetica,Arial,sans-serif;font-weight:400;line-height:1.375;mar=
+--
+51107-f;font-size:16px;font-weight:400;line-height:1.375;padding:0;position:relat=
+51108-ive;text-align:center;vertical-align:top;width:100%"><tbody><tr style=3D"pa=
+51109:dding:0;text-align:left;vertical-align:top"><th class=3D"venmo-wordmark-con=
+51110-tainer small-12 large-12 columns first last" style=3D"margin:0 auto;color:#=
+51111-2f3033;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:16=
+--
+51119-h style=3D"margin:0;color:#2f3033;font-family:'Helvetica Neue',Helvetica,Ar=
+51120-ial,sans-serif;font-size:16px;font-weight:400;line-height:1.375;margin:0;pa=
+51121:dding:0;text-align:left"><img class=3D"venmo-wordmark-v2" src=3D"https://d3=
+51122:f7mhbv11m2z3.cloudfront.net/email-assets/shared/venmo-wordmark-v3.png" alt=
+51123:=3D"Venmo logo" width=3D"64" style=3D"-ms-interpolation-mode:bicubic;clear:=
+51124-both;display:block;height:auto;margin-bottom:16px;margin-top:16px;max-width=
+51125-:100%;outline:0;text-decoration:none;width:61px"></th><th class=3D"expander=
+--
+51174-;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:11px;fon=
+51175-t-weight:400;line-height:15px;margin:0;margin-bottom:15px;padding:0;text-al=
+51176:ign:left">The Venmo Mastercard=C2=AE is issued by The Bancorp Bank, N.A. pu=
+51177-rsuant to license by Mastercard International Incorporated. Card may be use=
+51178-d everywhere Mastercard is accepted in the U.S. Mastercard is a registered =
+--
+51180-l Incorporated. The Bancorp Bank, N.A. is issuer of the Card only and not r=
+51181-esponsible for the associated accounts or other products, services, or offe=
+51182:rs from Venmo.</p><p style=3D"margin:0;margin-bottom:15px;color:#6b6e76;fon=
+51183-t-family:'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:11px;font-we=
+51184-ight:400;line-height:15px;margin:0;margin-bottom:15px;padding:0;text-align:=
+51185-left">Please do not reply directly to this email. We've sent it from a noti=
+51186-fication-only address that can't accept replies. If you need any help with =
+51187:Venmo, <a href=3D"https://help.venmo.com/hc/en-us/articles/219497368" targe=
+51188-t=3D"_blank" rel=3D"noopener noreferrer" style=3D"margin:0;color:#0074de;fo=
+51189-nt-family:'Helvetica Neue',Helvetica,Arial,sans-serif;font-weight:400;line-=
+51190-height:1.375;margin:0;padding:0;text-align:left;text-decoration:underline">=
+51191-contact us</a> directly. To make sure our email updates are delivered to yo=
+51192:ur inbox, please add venmo@email.venmo.com to your email Address Book.</p><=
+51193-p style=3D"margin:0;margin-bottom:15px;color:#6b6e76;font-family:'Helvetica=
+51194- Neue',Helvetica,Arial,sans-serif;font-size:11px;font-weight:400;line-heigh=
+51195:t:15px;margin:0;margin-bottom:15px;padding:0;text-align:left">Venmo is a se=
+51196-rvice of PayPal, Inc., a licensed provider of money transfer services. All =
+51197-money transmission is provided by PayPal, Inc. pursuant to <a href=3D"https=
+51198:://venmo.com/legal/us-licenses/" target=3D"_blank" rel=3D"noopener noreferr=
+51199-er" style=3D"margin:0;color:#0074de;font-family:'Helvetica Neue',Helvetica,=
+51200-Arial,sans-serif;font-weight:400;line-height:1.375;margin:0;padding:0;text-=

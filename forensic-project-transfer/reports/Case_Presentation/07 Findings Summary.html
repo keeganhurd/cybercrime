@@ -1,0 +1,42 @@
+<!doctype html>
+<html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>07 Findings Summary</title>
+<style>
+:root{--ink:#18202a;--muted:#5f6b7a;--line:#d8dde6;--bg:#f6f8fb;--panel:#ffffff;--gmail:#dbeafe;--drive:#dcfce7;--business:#ede9fe;--search:#ffedd5;--corr:#fee2e2;--warn:#fff7cc;}
+*{box-sizing:border-box} body{margin:0;background:var(--bg);color:var(--ink);font:18px/1.5 Arial,Helvetica,sans-serif}
+header{background:#101827;color:white;padding:28px 36px} header h1{margin:0 0 6px;font-size:34px} header p{margin:0;color:#cbd5e1}
+main{max-width:1320px;margin:0 auto;padding:24px 28px 60px}
+nav{display:flex;flex-wrap:wrap;gap:8px;background:#e9eef6;padding:10px 28px;border-bottom:1px solid var(--line);position:sticky;top:0;z-index:10}
+nav a{background:#fff;border:1px solid var(--line);border-radius:8px;color:#18202a;text-decoration:none;padding:8px 12px;font-weight:700}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:20px;margin:16px 0;box-shadow:0 1px 2px rgba(15,23,42,.05)}
+.summary{font-size:21px}.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:14px}
+.metric{border-left:8px solid #334155;background:white;padding:14px 16px;border-radius:8px;border-top:1px solid var(--line);border-right:1px solid var(--line);border-bottom:1px solid var(--line)}
+.metric b{display:block;font-size:30px}.muted{color:var(--muted)} .small{font-size:14px}.mono{font-family:Consolas,Menlo,monospace}
+table{width:100%;border-collapse:collapse;background:white;border:1px solid var(--line);font-size:16px} th{position:sticky;top:57px;background:#1f2937;color:white;text-align:left;padding:10px;z-index:5}td{border-top:1px solid var(--line);padding:10px;vertical-align:top}
+tr:nth-child(even){background:#f9fbff}.pill{display:inline-block;border-radius:999px;padding:4px 9px;font-size:13px;font-weight:800;margin:2px;background:#e2e8f0}.gmail{background:var(--gmail)}.drive{background:var(--drive)}.business{background:var(--business)}.search{background:var(--search)}.corr{background:var(--corr)}.important{outline:3px solid #f97316}
+.event{border-left:10px solid #94a3b8;padding:14px 16px;margin:12px 0;background:#fff;border-radius:8px;border-top:1px solid var(--line);border-right:1px solid var(--line);border-bottom:1px solid var(--line)}
+.event.gmail{border-left-color:#2563eb}.event.drive{border-left-color:#16a34a}.event.business{border-left-color:#7c3aed}.event.search{border-left-color:#f97316}.event.corr{border-left-color:#dc2626}
+.time{font-size:22px;font-weight:800}.desc{font-size:18px}.src{font-size:13px;color:#475569;word-break:break-all}
+.gallery{display:grid;grid-template-columns:repeat(auto-fill,minmax(360px,1fr));gap:18px}.shot{background:#fff;border:1px solid var(--line);border-radius:10px;overflow:hidden}.shot img{width:100%;display:block;background:#111;max-height:520px;object-fit:contain}.shot object{width:100%;height:520px;background:#fff}
+.shot .body{padding:14px}.box{border:2px solid #f97316;background:#fff7ed;border-radius:12px;padding:16px;margin:18px 0}.redbox{border-color:#dc2626;background:#fef2f2}.warn{background:var(--warn);border-left:8px solid #f59e0b;padding:14px;border-radius:8px}
+@media(max-width:760px){body{font-size:16px}header{padding:22px}main{padding:16px}th{position:static}.gallery{grid-template-columns:1fr}table{font-size:14px}.time{font-size:19px}}
+</style>
+</head>
+<body><header><h1>07 Findings Summary</h1><p>Plain-English findings and limitations</p></header><nav><a href="01 Executive Summary.html">Executive Summary</a><a href="02 Timeline.html">Timeline</a><a href="03 Evidence Gallery.html">Evidence Gallery</a><a href="04 Search Report.html">Search Report</a><a href="05 Correlation Report.html">Correlation Report</a><a href="06 Source Documents.html">Source Documents</a><a href="07 Findings Summary.html">Findings Summary</a></nav><main>
+    <section class="card summary">
+      <h2>What Google's records show</h2>
+      <p>Google My Activity records show Gmail searches and Gmail use between April 19 and April 26, 2024. The most relevant searches include HELO/EIN, Jonathan, Ariana, Gavin, Venmo, primecorporatecredit.com, and mlogan@trustfi.com.</p>
+      <p>The Takeout also contains Google Business Profile records and Drive files, but the recovered timeline did not contain April 2024 Drive view/download activity rows.</p>
+    </section>
+    <section class="card summary">
+      <h2>What Google's records do not show</h2>
+      <p>The Takeout records reviewed here do not show April 2024 IP addresses, device identifiers, session IDs, or a specific actor for the Gmail activity. They also do not show a direct April 2024 Access Log Activity row or a direct Drive download/open record in the timeline.</p>
+    </section>
+    <section class="card summary">
+      <h2>What corroborates independent phone evidence</h2>
+      <p>The April 26 Gmail search records for Jonathan and Ariana are close in time and subject matter to recovered screenshot/message artifacts showing those same search terms. The April 25 Gmail activity occurs the same afternoon as recovered phone artifacts showing Gmail/business/financial screenshots and FILE_5531.pdf in the message sequence.</p>
+    </section>
+    <section class="card summary">
+      <h2>What law enforcement could obtain through legal process</h2>
+      <p>Provider records could potentially supply missing authentication logs, IP addresses, device/user-agent records, OAuth/session information, Gmail message open/download records, Drive audit/access records, and Apple/iCloud Messages/Photos metadata. Native iPhone records could confirm sender/recipient handles, message GUIDs, attachment GUIDs, deletion status, transfer metadata, and whether the HTML export accurately represents the original message thread.</p>
+    </section>
+    </main></body></html>

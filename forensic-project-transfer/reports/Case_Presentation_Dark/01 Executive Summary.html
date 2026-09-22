@@ -1,0 +1,60 @@
+<!doctype html>
+<html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Dark - 01 Executive Summary</title>
+
+<style>
+:root{--ink:#e8eef8;--muted:#aab7c8;--line:#334155;--bg:#0b1020;--panel:#111827;--panel2:#0f172a;--gmail:#143260;--drive:#123b28;--business:#32205f;--search:#563111;--corr:#5c1717;--warn:#45370a;--accent:#60a5fa;}
+*{box-sizing:border-box} body{margin:0;background:linear-gradient(180deg,#070b16 0%,var(--bg) 180px);color:var(--ink);font:18px/1.5 Arial,Helvetica,sans-serif}
+header{background:#030712;color:white;padding:28px 36px;border-bottom:1px solid #1f2937} header h1{margin:0 0 6px;font-size:34px} header p{margin:0;color:#cbd5e1}
+main{max-width:1320px;margin:0 auto;padding:24px 28px 60px}
+nav{display:flex;flex-wrap:wrap;gap:8px;background:#0f172a;padding:10px 28px;border-bottom:1px solid var(--line);position:sticky;top:0;z-index:10}
+nav a{background:#111827;border:1px solid var(--line);border-radius:8px;color:#e8eef8;text-decoration:none;padding:8px 12px;font-weight:700}
+nav a:hover{background:#1e293b;border-color:#60a5fa}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:20px;margin:16px 0;box-shadow:0 12px 30px rgba(0,0,0,.18)}
+.summary{font-size:21px}.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:14px}
+.metric{border-left:8px solid #60a5fa;background:var(--panel);padding:14px 16px;border-radius:8px;border-top:1px solid var(--line);border-right:1px solid var(--line);border-bottom:1px solid var(--line)}
+.metric b{display:block;font-size:30px;color:#f8fafc}.muted{color:var(--muted)} .small{font-size:14px}.mono{font-family:Consolas,Menlo,monospace}
+a{color:#93c5fd} a:visited{color:#c4b5fd}
+table{width:100%;border-collapse:collapse;background:var(--panel);border:1px solid var(--line);font-size:16px} th{position:sticky;top:57px;background:#020617;color:white;text-align:left;padding:10px;z-index:5}td{border-top:1px solid var(--line);padding:10px;vertical-align:top}
+tr:nth-child(even){background:#0f172a}.pill{display:inline-block;border-radius:999px;padding:4px 9px;font-size:13px;font-weight:800;margin:2px;background:#263244;color:#e8eef8;border:1px solid rgba(255,255,255,.08)}
+.gmail{background:var(--gmail)}.drive{background:var(--drive)}.business{background:var(--business)}.search{background:var(--search)}.corr{background:var(--corr)}.important{outline:3px solid #f59e0b}
+.event{border-left:10px solid #64748b;padding:14px 16px;margin:12px 0;background:var(--panel);border-radius:8px;border-top:1px solid var(--line);border-right:1px solid var(--line);border-bottom:1px solid var(--line)}
+.event.gmail{border-left-color:#3b82f6}.event.drive{border-left-color:#22c55e}.event.business{border-left-color:#a78bfa}.event.search{border-left-color:#f97316}.event.corr{border-left-color:#ef4444}
+.time{font-size:22px;font-weight:800;color:#f8fafc}.desc{font-size:18px}.src{font-size:13px;color:#b6c2d2;word-break:break-all}
+.gallery{display:grid;grid-template-columns:repeat(auto-fill,minmax(360px,1fr));gap:18px}.shot{background:var(--panel);border:1px solid var(--line);border-radius:10px;overflow:hidden}.shot img{width:100%;display:block;background:#05070d;max-height:520px;object-fit:contain}.shot object{width:100%;height:520px;background:#111827}
+.shot .body{padding:14px}.box{border:2px solid #f97316;background:#1f160b;border-radius:12px;padding:16px;margin:18px 0}.redbox{border-color:#ef4444;background:#240f12}.warn{background:var(--warn);border-left:8px solid #f59e0b;padding:14px;border-radius:8px}
+code,.mono{background:#020617;border:1px solid #1f2937;border-radius:5px;padding:1px 4px;color:#dbeafe}
+@media(max-width:760px){body{font-size:16px}header{padding:22px}main{padding:16px}th{position:static}.gallery{grid-template-columns:1fr}table{font-size:14px}.time{font-size:19px}}
+</style>
+
+</head>
+<body><header><h1>01 Executive Summary</h1><p>Plain-English overview of the Google Takeout review</p></header><nav><a href="01 Executive Summary.html">Executive Summary</a><a href="02 Timeline.html">Timeline</a><a href="03 Evidence Gallery.html">Evidence Gallery</a><a href="04 Search Report.html">Search Report</a><a href="05 Correlation Report.html">Correlation Report</a><a href="06 Source Documents.html">Source Documents</a><a href="07 Findings Summary.html">Findings Summary</a></nav><main>
+    <section class="card summary">
+      <h2>One-page executive summary for detectives</h2>
+      <p>This packet reviews Google Takeout records for <b>April 19, 2024 through April 26, 2024</b> and compares those Google records with independently recovered phone-message artifacts where timing data was available.</p>
+      <p>Google's records show Gmail searches and Gmail use during the same week as the recovered screenshot/message sequence. The strongest Google records are Gmail searches for <b>helo payment services ein</b>, <b>Jonathan</b>, <b>Ariana</b>, <b>venmo</b>, and related terms. The phone evidence separately shows screenshot/file transmissions to the conversation labeled <b>Mom</b>, often within seconds of the screenshot filename time.</p>
+      <p>This packet does <b>not</b> identify the actor. It does <b>not</b> prove whether access was authorized. It does <b>not</b> provide April 2024 IP addresses or device identifiers from Google's records. It does show objective timestamps, source files, and timing correlations that law enforcement can verify against native device/provider records.</p>
+    </section>
+    <section class="grid">
+      <div class="metric"><b>21</b>Takeout ZIP files processed</div>
+      <div class="metric"><b>26,368</b>Files inventoried</div>
+      <div class="metric"><b>17,659</b>Text/metadata files indexed</div>
+      <div class="metric"><b>918</b>April 19-26 Google activity rows</div>
+      <div class="metric"><b>19</b>Gmail activity rows</div>
+      <div class="metric"><b>10</b>Gmail search rows</div>
+      <div class="metric"><b>0</b>Drive activity rows in timeline</div>
+      <div class="metric"><b>0</b>Extraction errors recorded</div>
+    </section>
+    <section class="card">
+      <h2>Major findings</h2>
+      <ul>
+        <li>Gmail My Activity contains <b>19</b> events during the reviewed week.</li>
+        <li>Gmail searches recovered include: elijah hurd, primecorporatecredit.com, valeri, helo payment services ein, mlogan@trustfi.com, gavin, Jonathan, 290z5x7hn2j2fu2yaqjpc1o1o998@reply.airbnb.com, Ariana, venmo.</li>
+        <li>Access Log Activity is present, but no Access Log Activity rows dated April 19-26, 2024 were recovered in this export.</li>
+        <li>Google Account SubscriberInfo contains login-style rows, but the parsed login-style table covers 2025-09-05 through 2026-06-02, not April 2024.</li>
+        <li>Recovered phone-message artifacts show a separate capture/send timing pattern, including sensitive business/financial screenshots and FILE_5531.pdf, but actor identity and native message metadata require native records.</li>
+      </ul>
+    </section>
+    <section class="card warn">
+      <b>Important limitation:</b> absence of April 2024 IP/device rows in this Takeout is not the same thing as proof that no April 2024 access occurred. It means this export did not provide those fields for that time window.
+    </section>
+    </main></body></html>

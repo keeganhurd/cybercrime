@@ -1,0 +1,641 @@
+# Google Takeout Forensic Timeline Findings
+Analysis window: 2024-04-19 00:00:00 through 2024-04-26 23:59:59 inclusive.
+Extracted/indexed folder: `C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted`
+Indexed text-like files: 17659
+Timeline events identified in window: 29
+Keyword hits: 99995
+Extraction errors: 0
+
+## 1. Timeline Overview
+Earliest event: 2024-04-19 18:00:12
+Latest event: 2024-04-26 19:40:33
+
+Service counts:
+- Google Account; Google Business Profile: 29
+
+Event type counts:
+- Dated record: 29
+
+## 2. Significant Activity Between April 19-26
+- 2024-04-19 18:00:12 | Google Account; Google Business Profile | Dated record | Line 9: "updateTime": "2024-04-19T18:00:12.746053Z", | Source: `C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\Google Business Profile\account-109822854878924139108\location-4513462355681358635\localPost-1292530519349166278\data.json`
+- 2024-04-19 18:00:12 | Google Account; Google Business Profile | Dated record | Line 10: "createTime": "2024-04-19T18:00:12.746053Z", | Source: `C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\Google Business Profile\account-109822854878924139108\location-4513462355681358635\localPost-1292530519349166278\data.json`
+- 2024-04-19 18:14:36 | Google Account; Google Business Profile | Dated record | Line 14: "expirationTime": "2024-04-19T18:14:36.140275Z", | Source: `C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\Google Business Profile\account-109822854878924139108\location-4513462355681358635\localPost-4645040979849330846\data.json`
+- 2024-04-19 18:15:25 | Google Account; Google Business Profile | Dated record | Line 13: "expirationTime": "2024-04-19T18:15:25.883406Z", | Source: `C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\Google Business Profile\account-109822854878924139108\location-4513462355681358635\localPost-3932744015570375417\data.json`
+- 2024-04-20 13:39:06 | Google Account; Google Business Profile | Dated record | Line 10: "expirationTime": "2024-04-20T13:39:06.809131Z", | Source: `C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\Google Business Profile\account-109822854878924139108\location-4513462355681358635\localPost-2241019928343832577\data.json`
+- 2024-04-22 20:48:12 | Google Account; Google Business Profile | Dated record | Line 9: "updateTime": "2024-04-22T20:48:12.848403Z", | Source: `C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\Google Business Profile\account-109822854878924139108\location-4513462355681358635\localPost-8192038167320063481\data.json`
+- 2024-04-22 20:48:12 | Google Account; Google Business Profile | Dated record | Line 10: "createTime": "2024-04-22T20:48:12.848403Z", | Source: `C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\Google Business Profile\account-109822854878924139108\location-4513462355681358635\localPost-8192038167320063481\data.json`
+- 2024-04-23 11:39:43 | Google Account; Google Business Profile | Dated record | Line 224: "createTime": "2024-04-23T11:39:43.129751Z", | Source: `C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\Google Business Profile\account-109822854878924139108\location-4513462355681358635\reviews-ABHRLXVciUqGn18cYjr3twVzR-9MjF5GDUbVuf.json`
+- 2024-04-23 11:39:43 | Google Account; Google Business Profile | Dated record | Line 225: "updateTime": "2024-04-23T11:39:43.129751Z", | Source: `C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\Google Business Profile\account-109822854878924139108\location-4513462355681358635\reviews-ABHRLXVciUqGn18cYjr3twVzR-9MjF5GDUbVuf.json`
+- 2024-04-23 13:57:03 | Google Account; Google Business Profile | Dated record | Line 8: "createTime": "2024-04-23T13:57:03.383816Z", | Source: `C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\Google Business Profile\account-109822854878924139108\location-3993888674377840527\reviews-ABHRLXVO-4wTk2hu45aFCCo2PWr5XwSBqE-I5m.json`
+- 2024-04-23 13:57:03 | Google Account; Google Business Profile | Dated record | Line 9: "updateTime": "2024-04-23T13:57:03.383816Z", | Source: `C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\Google Business Profile\account-109822854878924139108\location-3993888674377840527\reviews-ABHRLXVO-4wTk2hu45aFCCo2PWr5XwSBqE-I5m.json`
+- 2024-04-23 21:12:59 | Google Account; Google Business Profile | Dated record | Line 228: "updateTime": "2024-04-23T21:12:59.556672Z" | Source: `C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\Google Business Profile\account-109822854878924139108\location-4513462355681358635\reviews-ABHRLXVciUqGn18cYjr3twVzR-9MjF5GDUbVuf.json`
+- 2024-04-23 21:13:37 | Google Account; Google Business Profile | Dated record | Line 9: "updateTime": "2024-04-23T21:13:37.157273Z", | Source: `C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\Google Business Profile\account-109822854878924139108\location-4513462355681358635\localPost-3249107685513816098\data.json`
+- 2024-04-23 21:13:37 | Google Account; Google Business Profile | Dated record | Line 10: "createTime": "2024-04-23T21:13:37.157273Z", | Source: `C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\Google Business Profile\account-109822854878924139108\location-4513462355681358635\localPost-3249107685513816098\data.json`
+- 2024-04-23 21:15:55 | Google Account; Google Business Profile | Dated record | Line 13: "expirationTime": "2024-04-23T21:15:55.614519Z", | Source: `C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\Google Business Profile\account-109822854878924139108\location-4513462355681358635\localPost-5890135045885771456\data.json`
+- 2024-04-23 21:19:57 | Google Account; Google Business Profile | Dated record | Line 9: "updateTime": "2024-04-23T21:19:57.197781Z", | Source: `C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\Google Business Profile\account-109822854878924139108\location-4513462355681358635\localPost-7871765936417199075\data.json`
+- 2024-04-23 21:19:57 | Google Account; Google Business Profile | Dated record | Line 10: "createTime": "2024-04-23T21:19:57.197781Z", | Source: `C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\Google Business Profile\account-109822854878924139108\location-4513462355681358635\localPost-7871765936417199075\data.json`
+- 2024-04-24 16:08:05 | Google Account; Google Business Profile | Dated record | Line 10: "createTime": "2024-04-24T16:08:05.398476Z", | Source: `C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\Google Business Profile\account-109822854878924139108\location-4513462355681358635\localPost-4600960242750126068\data.json`
+- 2024-04-24 18:11:06 | Google Account; Google Business Profile | Dated record | Line 13: "expirationTime": "2024-04-24T18:11:06.482861Z", | Source: `C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\Google Business Profile\account-109822854878924139108\location-4513462355681358635\localPost-6683017781992861107\data.json`
+- 2024-04-25 15:13:10 | Google Account; Google Business Profile | Dated record | Line 10: "expirationTime": "2024-04-25T15:13:10.359898Z", | Source: `C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\Google Business Profile\account-109822854878924139108\location-4513462355681358635\localPost-207423620139057303\data.json`
+- 2024-04-25 17:13:23 | Google Account; Google Business Profile | Dated record | Line 10: "updateTime": "2024-04-25T17:13:23.787400Z", | Source: `C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\Google Business Profile\account-109822854878924139108\location-4513462355681358635\localPost-1249691615607436783\data.json`
+- 2024-04-25 17:13:23 | Google Account; Google Business Profile | Dated record | Line 11: "createTime": "2024-04-25T17:13:23.787400Z", | Source: `C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\Google Business Profile\account-109822854878924139108\location-4513462355681358635\localPost-1249691615607436783\data.json`
+- 2024-04-26 15:06:58 | Google Account; Google Business Profile | Dated record | Line 9: "updateTime": "2024-04-26T15:06:58.189466Z", | Source: `C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\Google Business Profile\account-109822854878924139108\location-4513462355681358635\localPost-4600960242750126068\data.json`
+- 2024-04-26 15:08:04 | Google Account; Google Business Profile | Dated record | Line 9: "updateTime": "2024-04-26T15:08:04.649656Z", | Source: `C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\Google Business Profile\account-109822854878924139108\location-4513462355681358635\localPost-8816426607840567306\data.json`
+- 2024-04-26 15:08:04 | Google Account; Google Business Profile | Dated record | Line 10: "createTime": "2024-04-26T15:08:04.649656Z", | Source: `C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\Google Business Profile\account-109822854878924139108\location-4513462355681358635\localPost-8816426607840567306\data.json`
+- 2024-04-26 15:09:36 | Google Account; Google Business Profile | Dated record | Line 9: "updateTime": "2024-04-26T15:09:36.414570Z", | Source: `C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\Google Business Profile\account-109822854878924139108\location-4513462355681358635\localPost-3172057915549246425\data.json`
+- 2024-04-26 15:09:36 | Google Account; Google Business Profile | Dated record | Line 10: "createTime": "2024-04-26T15:09:36.414570Z", | Source: `C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\Google Business Profile\account-109822854878924139108\location-4513462355681358635\localPost-3172057915549246425\data.json`
+- 2024-04-26 19:40:33 | Google Account; Google Business Profile | Dated record | Line 212: "createTime": "2024-04-26T19:40:33.897204Z", | Source: `C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\Google Business Profile\account-109822854878924139108\location-4513462355681358635\reviews-ABHRLXVciUqGn18cYjr3twVzR-9MjF5GDUbVuf.json`
+- 2024-04-26 19:40:33 | Google Account; Google Business Profile | Dated record | Line 213: "updateTime": "2024-04-26T19:40:33.897204Z", | Source: `C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\Google Business Profile\account-109822854878924139108\location-4513462355681358635\reviews-ABHRLXVciUqGn18cYjr3twVzR-9MjF5GDUbVuf.json`
+
+## 3. Gmail Activity
+Gmail-related timeline rows: 0
+
+## 4. Google Drive Activity
+Drive-related timeline rows: 0
+
+## 5. Security/Account Activity
+Security/account-related timeline rows: 29
+- 2024-04-19 18:00:12 | Dated record | Line 9: "updateTime": "2024-04-19T18:00:12.746053Z", | Source: `C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\Google Business Profile\account-109822854878924139108\location-4513462355681358635\localPost-1292530519349166278\data.json`
+- 2024-04-19 18:00:12 | Dated record | Line 10: "createTime": "2024-04-19T18:00:12.746053Z", | Source: `C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\Google Business Profile\account-109822854878924139108\location-4513462355681358635\localPost-1292530519349166278\data.json`
+- 2024-04-19 18:14:36 | Dated record | Line 14: "expirationTime": "2024-04-19T18:14:36.140275Z", | Source: `C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\Google Business Profile\account-109822854878924139108\location-4513462355681358635\localPost-4645040979849330846\data.json`
+- 2024-04-19 18:15:25 | Dated record | Line 13: "expirationTime": "2024-04-19T18:15:25.883406Z", | Source: `C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\Google Business Profile\account-109822854878924139108\location-4513462355681358635\localPost-3932744015570375417\data.json`
+- 2024-04-20 13:39:06 | Dated record | Line 10: "expirationTime": "2024-04-20T13:39:06.809131Z", | Source: `C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\Google Business Profile\account-109822854878924139108\location-4513462355681358635\localPost-2241019928343832577\data.json`
+- 2024-04-22 20:48:12 | Dated record | Line 9: "updateTime": "2024-04-22T20:48:12.848403Z", | Source: `C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\Google Business Profile\account-109822854878924139108\location-4513462355681358635\localPost-8192038167320063481\data.json`
+- 2024-04-22 20:48:12 | Dated record | Line 10: "createTime": "2024-04-22T20:48:12.848403Z", | Source: `C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\Google Business Profile\account-109822854878924139108\location-4513462355681358635\localPost-8192038167320063481\data.json`
+- 2024-04-23 11:39:43 | Dated record | Line 224: "createTime": "2024-04-23T11:39:43.129751Z", | Source: `C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\Google Business Profile\account-109822854878924139108\location-4513462355681358635\reviews-ABHRLXVciUqGn18cYjr3twVzR-9MjF5GDUbVuf.json`
+- 2024-04-23 11:39:43 | Dated record | Line 225: "updateTime": "2024-04-23T11:39:43.129751Z", | Source: `C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\Google Business Profile\account-109822854878924139108\location-4513462355681358635\reviews-ABHRLXVciUqGn18cYjr3twVzR-9MjF5GDUbVuf.json`
+- 2024-04-23 13:57:03 | Dated record | Line 8: "createTime": "2024-04-23T13:57:03.383816Z", | Source: `C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\Google Business Profile\account-109822854878924139108\location-3993888674377840527\reviews-ABHRLXVO-4wTk2hu45aFCCo2PWr5XwSBqE-I5m.json`
+- 2024-04-23 13:57:03 | Dated record | Line 9: "updateTime": "2024-04-23T13:57:03.383816Z", | Source: `C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\Google Business Profile\account-109822854878924139108\location-3993888674377840527\reviews-ABHRLXVO-4wTk2hu45aFCCo2PWr5XwSBqE-I5m.json`
+- 2024-04-23 21:12:59 | Dated record | Line 228: "updateTime": "2024-04-23T21:12:59.556672Z" | Source: `C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\Google Business Profile\account-109822854878924139108\location-4513462355681358635\reviews-ABHRLXVciUqGn18cYjr3twVzR-9MjF5GDUbVuf.json`
+- 2024-04-23 21:13:37 | Dated record | Line 9: "updateTime": "2024-04-23T21:13:37.157273Z", | Source: `C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\Google Business Profile\account-109822854878924139108\location-4513462355681358635\localPost-3249107685513816098\data.json`
+- 2024-04-23 21:13:37 | Dated record | Line 10: "createTime": "2024-04-23T21:13:37.157273Z", | Source: `C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\Google Business Profile\account-109822854878924139108\location-4513462355681358635\localPost-3249107685513816098\data.json`
+- 2024-04-23 21:15:55 | Dated record | Line 13: "expirationTime": "2024-04-23T21:15:55.614519Z", | Source: `C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\Google Business Profile\account-109822854878924139108\location-4513462355681358635\localPost-5890135045885771456\data.json`
+- 2024-04-23 21:19:57 | Dated record | Line 9: "updateTime": "2024-04-23T21:19:57.197781Z", | Source: `C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\Google Business Profile\account-109822854878924139108\location-4513462355681358635\localPost-7871765936417199075\data.json`
+- 2024-04-23 21:19:57 | Dated record | Line 10: "createTime": "2024-04-23T21:19:57.197781Z", | Source: `C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\Google Business Profile\account-109822854878924139108\location-4513462355681358635\localPost-7871765936417199075\data.json`
+- 2024-04-24 16:08:05 | Dated record | Line 10: "createTime": "2024-04-24T16:08:05.398476Z", | Source: `C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\Google Business Profile\account-109822854878924139108\location-4513462355681358635\localPost-4600960242750126068\data.json`
+- 2024-04-24 18:11:06 | Dated record | Line 13: "expirationTime": "2024-04-24T18:11:06.482861Z", | Source: `C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\Google Business Profile\account-109822854878924139108\location-4513462355681358635\localPost-6683017781992861107\data.json`
+- 2024-04-25 15:13:10 | Dated record | Line 10: "expirationTime": "2024-04-25T15:13:10.359898Z", | Source: `C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\Google Business Profile\account-109822854878924139108\location-4513462355681358635\localPost-207423620139057303\data.json`
+- 2024-04-25 17:13:23 | Dated record | Line 10: "updateTime": "2024-04-25T17:13:23.787400Z", | Source: `C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\Google Business Profile\account-109822854878924139108\location-4513462355681358635\localPost-1249691615607436783\data.json`
+- 2024-04-25 17:13:23 | Dated record | Line 11: "createTime": "2024-04-25T17:13:23.787400Z", | Source: `C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\Google Business Profile\account-109822854878924139108\location-4513462355681358635\localPost-1249691615607436783\data.json`
+- 2024-04-26 15:06:58 | Dated record | Line 9: "updateTime": "2024-04-26T15:06:58.189466Z", | Source: `C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\Google Business Profile\account-109822854878924139108\location-4513462355681358635\localPost-4600960242750126068\data.json`
+- 2024-04-26 15:08:04 | Dated record | Line 9: "updateTime": "2024-04-26T15:08:04.649656Z", | Source: `C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\Google Business Profile\account-109822854878924139108\location-4513462355681358635\localPost-8816426607840567306\data.json`
+- 2024-04-26 15:08:04 | Dated record | Line 10: "createTime": "2024-04-26T15:08:04.649656Z", | Source: `C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\Google Business Profile\account-109822854878924139108\location-4513462355681358635\localPost-8816426607840567306\data.json`
+- 2024-04-26 15:09:36 | Dated record | Line 9: "updateTime": "2024-04-26T15:09:36.414570Z", | Source: `C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\Google Business Profile\account-109822854878924139108\location-4513462355681358635\localPost-3172057915549246425\data.json`
+- 2024-04-26 15:09:36 | Dated record | Line 10: "createTime": "2024-04-26T15:09:36.414570Z", | Source: `C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\Google Business Profile\account-109822854878924139108\location-4513462355681358635\localPost-3172057915549246425\data.json`
+- 2024-04-26 19:40:33 | Dated record | Line 212: "createTime": "2024-04-26T19:40:33.897204Z", | Source: `C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\Google Business Profile\account-109822854878924139108\location-4513462355681358635\reviews-ABHRLXVciUqGn18cYjr3twVzR-9MjF5GDUbVuf.json`
+- 2024-04-26 19:40:33 | Dated record | Line 213: "updateTime": "2024-04-26T19:40:33.897204Z", | Source: `C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\Google Business Profile\account-109822854878924139108\location-4513462355681358635\reviews-ABHRLXVciUqGn18cYjr3twVzR-9MjF5GDUbVuf.json`
+
+## 6. Search Queries Recovered
+Search-related timeline rows: 0
+
+## 7. File Access Recovered
+File-access-like timeline rows: 0
+
+## 8. Device Information Recovered
+Rows with device/browser/IP indicators: 0
+
+## 9. Activity Clusters
+Five-minute clusters with at least three relevant events: 6
+- 2024-04-23 21:12:59 to 2024-04-23 21:15:55 | 4 events | Google Account; Google Business Profile
+- 2024-04-23 21:13:37 to 2024-04-23 21:15:55 | 3 events | Google Account; Google Business Profile
+- 2024-04-23 21:15:55 to 2024-04-23 21:19:57 | 3 events | Google Account; Google Business Profile
+- 2024-04-26 15:06:58 to 2024-04-26 15:09:36 | 5 events | Google Account; Google Business Profile
+- 2024-04-26 15:08:04 to 2024-04-26 15:09:36 | 4 events | Google Account; Google Business Profile
+- 2024-04-26 15:08:04 to 2024-04-26 15:09:36 | 3 events | Google Account; Google Business Profile
+
+## 10. Keyword Search Summary
+- Gmail: 39305
+- Drive: 28548
+- keeganhurd@gmail.com: 10961
+- Inbox: 8741
+- Business: 2077
+- EIN: 1577
+- Helo: 1526
+- Bank: 1364
+- Robin: 1320
+- Password: 1094
+- Tax: 793
+- Stripe: 639
+- Mom: 630
+- Merchant: 242
+- Checking: 191
+- Banking: 170
+- Elijah: 148
+- Go Fingerprinting: 138
+- Savings: 131
+- Jonathan: 109
+- Braese: 88
+- GoFingerprinting: 88
+- Statement: 63
+- Breas: 41
+- Google Business: 9
+- Google My Business: 2
+
+## 11. 500 Most Common Terms Found In Gmail Activity
+- span: 651358
+- class: 333814
+- confidence: 81153
+- start-time: 81144
+- end-time: 81144
+- word: 80042
+- high: 62493
+- low: 12918
+- div: 9310
+- med: 8027
+- voicemail: 7939
+- you: 7296
+- color: 6890
+- display: 6785
+- the: 5335
+- http: 5127
+- href: 5025
+- and: 4815
+- audio: 4669
+- title: 4524
+- html: 4523
+- abbr: 4517
+- from: 4250
+- none: 3879
+- rel: 3831
+- font-size: 3415
+- body: 3400
+- block: 3395
+- haudio: 3387
+- for: 3014
+- that: 2801
+- voice: 2735
+- www.google.com: 2716
+- tag: 2712
+- call: 2703
+- text: 2380
+- vevent: 2290
+- head: 2283
+- style: 2263
+- tel: 2262
+- dtd: 2258
+- xhtml: 2258
+- www.w3.org: 2258
+- album: 2258
+- contributor: 2258
+- published: 2258
+- tags: 2258
+- controls: 2254
+- full-text: 2245
+- description: 2229
+- inbox: 2221
+- your: 1926
+- this: 1906
+- just: 1788
+- end: 1783
+- mailto: 1742
+- begin: 1740
+- uid: 1702
+- all: 1634
+- time: 1528
+- with: 1439
+- google: 1336
+- keegan: 1315
+- but: 1272
+- created: 1241
+- attendee: 1236
+- role: 1236
+- content: 1231
+- cutype: 1230
+- individual: 1230
+- partstat: 1230
+- x-num-guests: 1230
+- req-participant: 1227
+- hey: 1227
+- false: 1203
+- bye.: 1188
+- location: 1173
+- dtstart: 1162
+- font-weight: 1161
+- line-height: 1156
+- sequence: 1153
+- status: 1153
+- summary: 1153
+- auto: 1152
+- dtstamp: 1151
+- t072615z: 1151
+- dtend: 1150
+- font-family: 1148
+- eastern: 1147
+- type: 1147
+- arial: 1147
+- sans-serif: 1147
+- last-modified: 1145
+- transp: 1145
+- red: 1145
+- public: 1143
+- version: 1141
+- margin: 1139
+- log: 1136
+- inc.: 1135
+- rights: 1134
+- width: 1134
+- labels: 1133
+- copyright: 1132
+- reserved.: 1131
+- charset: 1131
+- utf-8: 1131
+- css: 1131
+- duration: 1131
+- user: 1130
+- black: 1130
+- bold: 1130
+- doctype: 1130
+- meta: 1130
+- http-equiv: 1130
+- content-type: 1130
+- text-decoration: 1130
+- underline: 1130
+- src: 1129
+- can: 1129
+- xml: 1129
+- w3c: 1129
+- strict: 1129
+- xhtml1: 1129
+- xhtml1-strict.dtd: 1129
+- xmlns: 1129
+- helvectica: 1129
+- hover: 1129
+- min-width: 1129
+- notecontainer: 1129
+- margin-top: 1129
+- recording-warning-message: 1129
+- recording-error-message: 1129
+- f00: 1129
+- vcard: 1129
+- deletedstatuscontainer: 1129
+- deleted: 1129
+- enclosure: 1127
+- know: 1119
+- transcript: 1118
+- have: 1110
+- confirmed: 1107
+- valarm: 1092
+- opaque: 1032
+- unread: 931
+- get: 899
+- was: 883
+- give: 830
+- value: 763
+- about: 749
+- accepted: 736
+- keeganhurd@gmail.com: 724
+- what: 719
+- you.: 717
+- hurd: 695
+- dad: 682
+- not: 676
+- going: 666
+- back: 665
+- how: 661
+- yeah: 654
+- talk: 643
+- like: 633
+- are: 626
+- https: 626
+- see: 597
+- don: 591
+- action: 577
+- mike: 547
+- trigger: 546
+- x-wr-alarmuid: 545
+- acknowledged: 545
+- true: 543
+- nicolle: 535
+- out: 531
+- x-apple-default-alarm: 524
+- thank: 522
+- organizer: 511
+- got: 506
+- becchio: 502
+- date-time: 494
+- calling: 481
+- t005545z: 473
+- one: 470
+- will: 460
+- they: 459
+- needs-action: 456
+- want: 448
+- then: 441
+- here: 438
+- when: 426
+- there: 426
+- now: 425
+- america: 410
+- wanted: 409
+- please: 407
+- number: 394
+- love: 394
+- tzid: 385
+- could: 382
+- think: 381
+- our: 380
+- some: 378
+- would: 367
+- let: 365
+- bye: 358
+- anyway: 352
+- maybe: 343
+- x-apple-travel-advisory-behavior: 342
+- automatic: 342
+- important: 327
+- okay: 324
+- message: 321
+- good: 320
+- join: 319
+- need: 317
+- had: 315
+- right: 305
+- today: 301
+- event: 296
+- more: 294
+- make: 288
+- robin: 285
+- new: 284
+- any: 278
+- hope: 275
+- michael: 269
+- james: 264
+- work: 259
+- she: 259
+- live: 254
+- because: 249
+- over: 247
+- phone: 246
+- okay.: 244
+- guys: 244
+- date: 239
+- way: 239
+- gonna: 236
+- it.: 233
+- call.: 233
+- njoin: 232
+- little: 228
+- something: 228
+- hurd@gmail.com: 224
+- really: 224
+- us06web.zoom.us: 214
+- robinhurd1@gmail.com: 213
+- doing: 213
+- well: 212
+- come: 209
+- again: 207
+- them: 206
+- thanks: 206
+- were: 206
+- email: 203
+- webinar: 203
+- into: 202
+- hello: 201
+- kind: 201
+- youtube: 200
+- eganhurd@gmail.com: 199
+- been: 198
+- sure: 198
+- press: 198
+- mcdaniel: 195
+- anyway.: 194
+- forward: 193
+- uuid: 192
+- friel: 190
+- day: 190
+- may: 188
+- meeting: 186
+- nhttps: 186
+- trying: 185
+- thanks.: 182
+- home: 181
+- look: 179
+- stacia: 178
+- before: 178
+- information: 177
+- video: 176
+- where: 175
+- t160000z: 174
+- tomorrow: 174
+- didn: 174
+- back.: 174
+- name: 173
+- later.: 173
+- day.: 172
+- keegan.: 172
+- new_york: 170
+- take: 168
+- use: 167
+- business: 166
+- alright.: 166
+- her: 165
+- probably: 164
+- soon: 161
+- t150000z: 158
+- also: 158
+- soon.: 156
+- that.: 156
+- dot: 154
+- free: 151
+- com: 151
+- only: 150
+- still: 150
+- thought: 150
+- last: 149
+- t170000z: 148
+- message.: 148
+- williams: 148
+- debt: 148
+- training: 147
+- me.: 146
+- again.: 146
+- great: 145
+- turner: 145
+- did: 143
+- off: 143
+- other: 141
+- categories: 141
+- schemas.google.com: 141
+- feb: 141
+- social: 138
+- house: 137
+- down: 136
+- t200000z: 134
+- help: 134
+- blaine: 134
+- james@jamespfriel.com: 134
+- without: 134
+- put: 132
+- session: 131
+- month: 131
+- might: 131
+- even: 130
+- later: 130
+- after: 129
+- things: 129
+- very: 129
+- should: 129
+- now.: 129
+- coming: 127
+- why: 127
+- try: 127
+- people: 126
+- know.: 126
+- jim: 125
+- t180000z: 125
+- thing: 124
+- t190000z: 123
+- available: 122
+- front: 122
+- recurrence-id: 121
+- next: 120
+- find: 120
+- stuff: 119
+- meet: 118
+- pwd: 118
+- called: 117
+- used: 117
+- calendar: 116
+- transparent: 116
+- jan: 116
+- much: 115
+- send: 115
+- days: 115
+- actually: 115
+- check: 114
+- talking: 114
+- looking: 114
+- hear: 114
+- working: 114
+- videos: 114
+- mdl-cell: 114
+- numbers: 113
+- which: 113
+- nthis: 111
+- mac: 111
+- nov: 111
+- payment: 110
+- morning: 110
+- mar: 110
+- couple: 110
+- sorry: 109
+- t15: 109
+- background-color: 109
+- using: 108
+- channels: 107
+- sent: 107
+- thomas: 106
+- hello.: 106
+- has: 105
+- detroit: 105
+- est: 105
+- dec: 105
+- t11: 105
+- getting: 104
+- android: 104
+- there.: 104
+- minutes: 104
+- build: 104
+- wanna: 104
+- guess: 104
+- say: 103
+- time.: 103
+- york: 103
+- real: 103
+- today.: 103
+- t14: 103
+- system: 102
+- jun: 102
+- no-reply@zoom.us: 102
+- faceless: 102
+- alright: 102
+- mail: 101
+- sep: 101
+- said: 101
+- happy: 100
+- t210000z: 100
+- create: 100
+- hours: 100
+- here.: 100
+- t140000z: 99
+- few: 99
+- office: 99
+- well.: 99
+- through: 98
+- account: 98
+- leave: 98
+- wondering: 98
+- pretty: 98
+- houston: 97
+- ipad: 97
+- nphone: 97
+- jul: 97
+- t16: 97
+- starting: 96
+- clock: 96
+- first: 95
+- daytona: 95
+- san: 94
+- tacoma: 94
+- t12: 94
+- media: 93
+- anything: 93
+- week: 93
+- via: 92
+- able: 92
+- gimme: 92
+- t17: 91
+- until: 90
+- those: 90
+- too: 90
+- start: 90
+- long: 90
+- up.: 90
+- reach: 90
+- topic: 90
+- t13: 90
+- left: 89
+- everything: 89
+- their: 89
+- every: 89
+- never: 89
+- chicago: 88
+- than: 88
+- chance: 88
+- bit: 88
+- hey.: 88
+- npasscode: 87
+- jose: 87
+- ndescription: 87
+- who: 86
+- joan: 86
+- washington: 86
+- done: 86
+- oct: 86
+- so.: 86
+- him: 86
+- buddy: 86
+- another: 85
+- company.: 84
+- already: 82
+- these: 82
+- yeah.: 82
+- morgan: 82
+- while: 81
+- code: 81
+- attach: 81
+- income: 81
+- one-tap: 80
+- traffic: 79
+- turn: 79
+- set: 79
+- viral: 79
+- t130000: 78
+- land: 78
+
+## 12. Gaps Or Limitations
+- This script indexes Takeout-exported records only. Absence of an event in Takeout is not proof that the event did not occur.
+- Some Google products export metadata but not full access logs, IP addresses, or session identifiers.
+- MBOX email records identify email messages in the archive, not necessarily message-open/view events unless Google exported separate activity records.
+- OCR is not performed here; media files are ignored unless metadata or adjacent exported records contain searchable text.
+- Native phone artifacts and provider logs should be used to confirm actor attribution, device identifiers, session data, and access method.

@@ -1,0 +1,623 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Florida Crystal Well & Sprinkler — Business Data Access and Transmission Evidence Packet</title>
+  <style>
+    :root {
+      color-scheme: dark;
+      --bg: #101317;
+      --panel: #171d24;
+      --panel2: #202833;
+      --ink: #eef3f8;
+      --muted: #aab7c4;
+      --line: #344150;
+      --blue: #78b7ff;
+      --green: #7ee39d;
+      --gold: #ffd166;
+      --red: #ff8a8a;
+      --purple: #c9a4ff;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: Arial, Helvetica, sans-serif;
+      background: var(--bg);
+      color: var(--ink);
+      line-height: 1.55;
+    }
+    header {
+      padding: 36px 28px 24px;
+      background: linear-gradient(135deg, #152031, #101317 62%);
+      border-bottom: 1px solid var(--line);
+    }
+    main { max-width: 1180px; margin: 0 auto; padding: 24px; }
+    h1 { margin: 0 0 8px; font-size: clamp(1.7rem, 4vw, 3rem); line-height: 1.08; }
+    h2 { margin-top: 30px; color: var(--blue); }
+    h3 { margin: 0; font-size: 1.35rem; }
+    .subtitle { color: var(--muted); font-size: 1.08rem; }
+    .notice, .panel {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      padding: 18px;
+      margin: 18px 0;
+    }
+    .notice strong { color: var(--gold); }
+    nav {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-top: 22px;
+    }
+    nav a {
+      color: var(--ink);
+      text-decoration: none;
+      border: 1px solid var(--line);
+      background: #121923;
+      padding: 8px 10px;
+      border-radius: 7px;
+      font-weight: 700;
+    }
+    .stats {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+      gap: 12px;
+      margin: 18px 0;
+    }
+    .stat {
+      background: var(--panel2);
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      padding: 14px;
+    }
+    .stat b { display: block; font-size: 1.75rem; color: var(--green); }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      overflow: hidden;
+      border-radius: 8px;
+      border: 1px solid var(--line);
+      background: var(--panel);
+    }
+    th, td {
+      text-align: left;
+      vertical-align: top;
+      border-bottom: 1px solid var(--line);
+      padding: 10px;
+    }
+    th { background: #243142; color: var(--ink); }
+    tr:nth-child(even) td { background: #151b22; }
+    a { color: var(--blue); }
+    code {
+      color: #9be7ff;
+      overflow-wrap: anywhere;
+      word-break: break-word;
+    }
+    .card {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      margin: 18px 0;
+      padding: 16px;
+    }
+    .card-head {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      gap: 12px;
+      margin-bottom: 14px;
+    }
+    .eyebrow {
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: .04em;
+      font-size: .78rem;
+      font-weight: 700;
+    }
+    .badge {
+      white-space: nowrap;
+      color: #07140d;
+      background: var(--green);
+      border-radius: 999px;
+      padding: 5px 9px;
+      font-weight: 800;
+      font-size: .82rem;
+    }
+    .card-grid {
+      display: grid;
+      grid-template-columns: minmax(0, 1.55fr) minmax(240px, .95fr);
+      gap: 18px;
+      align-items: start;
+    }
+    figure {
+      margin: 0;
+      background: #0c1015;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      padding: 8px;
+    }
+    figure img {
+      width: 100%;
+      max-height: 520px;
+      object-fit: contain;
+      display: block;
+      border-radius: 4px;
+      background: #050607;
+    }
+    figcaption { color: var(--muted); font-size: .86rem; margin-top: 8px; overflow-wrap: anywhere; }
+    .subject { font-size: 1.08rem; color: var(--gold); font-weight: 800; margin-top: 0; }
+    .facts {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+      gap: 8px;
+      margin: 12px 0;
+    }
+    .facts div {
+      background: #111820;
+      border: 1px solid var(--line);
+      border-radius: 7px;
+      padding: 9px;
+    }
+    dt { color: var(--muted); font-size: .78rem; text-transform: uppercase; font-weight: 800; }
+    dd { margin: 2px 0 0; overflow-wrap: anywhere; }
+    details {
+      margin-top: 12px;
+      background: #111820;
+      border: 1px solid var(--line);
+      border-radius: 7px;
+      padding: 10px;
+    }
+    summary { cursor: pointer; font-weight: 800; color: var(--purple); }
+    .ocr { color: #d8e2ec; }
+    .sources { padding-left: 18px; }
+    .footer { color: var(--muted); font-size: .9rem; margin-top: 32px; }
+    @media (max-width: 820px) {
+      main { padding: 14px; }
+      header { padding: 26px 16px 18px; }
+      .card-grid { grid-template-columns: 1fr; }
+      .card-head { flex-direction: column; }
+      .badge { white-space: normal; }
+      th, td { font-size: .9rem; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Florida Crystal Well & Sprinkler — Business Data Access and Transmission Evidence Packet</h1>
+    <div class="subtitle">Prepared for review by Flagler County law enforcement</div>
+    <nav>
+      <a href="#complaint">Independent complaint</a>
+      <a href="#bottom-line">Records summary</a>
+      <a href="#timeline">Timeline</a>
+      <a href="#cards">Evidence cards</a>
+      <a href="#sources">Source files</a>
+      <a href="#followup">Follow-up</a>
+    </nav>
+  </header>
+  <main>
+    <section id="complaint" class="notice">
+      <h2>Independent Business-Owner Complaint</h2>
+      <p>Steve Roberge is the owner of Florida Crystal Well & Sprinkler, a business operating in Palm Coast, Flagler County, Florida. Thomas Keegan Hurd managed the business’s Google Business Profile / Google My Business account on Steve Roberge’s behalf.</p>
+      <p>Steve Roberge states that the customer names, lead communications, account pages, and business information depicted in the attached screenshots belong to Florida Crystal Well & Sprinkler.</p>
+      <p>Steve Roberge did not authorize Robin Colleen Hurd-Bedner to access, view, download, capture, screenshot, transmit, or otherwise obtain any Florida Crystal Well & Sprinkler business data.</p>
+      <p>Steve Roberge also states that he did not authorize Thomas Keegan Hurd to disclose the business records to any third party except as necessary to manage the Google Business account on behalf of Florida Crystal Well & Sprinkler.</p>
+      <p>This packet presents a limited, business-specific subset of evidence for independent review by Flagler County law enforcement.</p>
+    </section>
+
+    <section id="bottom-line" class="panel">
+      <h2>Records Summary</h2>
+      <p>Existing recovered-phone, message-export, Google Photos, and Google Takeout records show a narrow April 25, 2024 sequence involving Florida Crystal Well & Sprinkler business data. The sequence includes screenshots that appear to depict customer/lead messages, Google Business Profile chat/account pages, and a Gmail message from Google Business Profile about Brianna Tucker contacting the business.</p>
+      <p>The most direct timing records show captures at 12:28:23 PM, 12:29:02 PM, 12:32:17 PM, 12:33:27 PM, and 12:48:04 PM, followed by message-export “Mom” timestamps within 12 to 29 seconds. Google Photos correlation records show several of the same images backed up to the Google account at the same second or one second after the screenshot capture time, with <code>IOS_PHONE</code> origin metadata and 1170x2532 phone-image dimensions.</p>
+      <p>These records support the inference that Florida Crystal business data was displayed, captured, backed up, and transmitted from the phone during this sequence. The records do not by themselves identify the physical user. Native iPhone databases, Apple/iCloud records, and Google provider records should be reviewed to confirm actor identity, message GUIDs, attachment metadata, deletion status, and account-session details.</p>
+    </section>
+
+    <section class="panel">
+      <h2>Related POPD Case</h2>
+      <p>Additional evidence exists involving other accounts that has been provided separately to Port Orange Police Department under Case No. PO250004281.</p>
+    </section>
+
+    <section class="panel">
+      <h2>Google Business Profile Foundation Records</h2>
+      <p>Google Takeout records for Google Business Profile include location <code>7701250605898456430</code>. The available profile data describes a well and sprinkler business operating in the Palm Coast / Flagler County area, and the additional-data record lists <code>59 Brittany Lane, Palm Coast, FL 32137</code>.</p>
+      <p>A separate Google Business Profile admin source file names <strong>Steve Roberge</strong> as <code>MANAGER</code> for that location. These records help confirm the business-profile context for the screenshots. They do not by themselves prove who physically used the phone during the screenshot and message sequence.</p>
+    </section>
+
+    <section class="stats" aria-label="Packet counts">
+      <div class="stat"><b>7</b>Florida Crystal-focused CE items</div>
+      <div class="stat"><b>5</b>items with parsed texted/linked time</div>
+      <div class="stat"><b>7</b>items with Google Photos timing</div>
+      <div class="stat"><b>7</b>items backed up 0-1 sec from capture</div>
+    </section>
+
+    <section id="timeline">
+      <h2>Chronological Timeline</h2>
+      <table>
+        <thead>
+          <tr><th>CE</th><th>EX</th><th>Capture</th><th>Google Photos backup</th><th>Texted / linked</th><th>Seconds to send</th><th>What it appears to show</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><a href="#CE-005">CE-005</a></td>
+            <td>EX-062</td>
+            <td>2024-04-25 12:23:36</td>
+            <td>2024-04-25 12:23:37</td>
+            <td>not parsed</td>
+            <td>not parsed</td>
+            <td>Google Business Profile message thread with Brianna Tucker and Florida Crystal Well &amp; Sprinkler</td>
+          </tr>
+        
+          <tr>
+            <td><a href="#CE-006">CE-006</a></td>
+            <td>EX-063</td>
+            <td>2024-04-25 12:26:18</td>
+            <td>2024-04-25 12:26:19</td>
+            <td>not parsed</td>
+            <td>not parsed</td>
+            <td>Google Business Profile chat settings showing Florida Crystal Well &amp; Sprinkler as a business</td>
+          </tr>
+        
+          <tr>
+            <td><a href="#CE-007">CE-007</a></td>
+            <td>EX-064</td>
+            <td>2024-04-25 12:28:23</td>
+            <td>2024-04-25 12:28:23</td>
+            <td>2024/04/25 12:28:44</td>
+            <td>21</td>
+            <td>Florida Crystal customer-message thread involving Ray and Steve Roberge</td>
+          </tr>
+        
+          <tr>
+            <td><a href="#CE-008">CE-008</a></td>
+            <td>EX-065</td>
+            <td>2024-04-25 12:29:02</td>
+            <td>2024-04-25 12:29:02</td>
+            <td>2024/04/25 12:29:14</td>
+            <td>12</td>
+            <td>Florida Crystal customer-message thread involving Brianna Tucker and Steve Roberge</td>
+          </tr>
+        
+          <tr>
+            <td><a href="#CE-009">CE-009</a></td>
+            <td>EX-066</td>
+            <td>2024-04-25 12:32:17</td>
+            <td>2024-04-25 12:32:17</td>
+            <td>2024/04/25 12:32:46</td>
+            <td>29</td>
+            <td>Florida Crystal customer/lead message list and business contact records</td>
+          </tr>
+        
+          <tr>
+            <td><a href="#CE-010">CE-010</a></td>
+            <td>EX-067</td>
+            <td>2024-04-25 12:33:27</td>
+            <td>2024-04-25 12:33:27</td>
+            <td>2024/04/25 12:33:47</td>
+            <td>20</td>
+            <td>Google Business Profile account list showing Florida Crystal Well &amp; Sprinkler</td>
+          </tr>
+        
+          <tr>
+            <td><a href="#CE-015">CE-015</a></td>
+            <td>EX-071</td>
+            <td>2024-04-25 12:48:04</td>
+            <td>2024-04-25 12:48:05</td>
+            <td>2024/04/25 12:48:16</td>
+            <td>12</td>
+            <td>Gmail message from Google Business Profile about Brianna Tucker contacting Florida Crystal</td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+
+    <section id="cards">
+      <h2>Evidence Cards</h2>
+      <p class="notice"><strong>Reading note:</strong> Each card is limited to Florida Crystal Well & Sprinkler / Google Business Profile material. Screenshots are displayed because they are the easiest way for an investigator to see what the recovered artifact appears to depict. Customer information should be treated as business evidence and protected from unnecessary public disclosure.</p>
+      
+      <article class="card" id="CE-005">
+        <div class="card-head">
+          <div>
+            <div class="eyebrow">Evidence Item 1</div>
+            <h3>CE-005 / EX-062</h3>
+          </div>
+          <span class="badge">Strong visual/timing match</span>
+        </div>
+        <div class="card-grid">
+          <div>
+            <p class="subject">Google Business Profile message thread with Brianna Tucker and Florida Crystal Well &amp; Sprinkler</p>
+            <dl class="facts">
+              <div><dt>Capture time</dt><dd>2024-04-25 12:23:36</dd></div>
+              <div><dt>Google Photos backup</dt><dd>2024-04-25 12:23:37</dd></div>
+              <div><dt>Backup delta</dt><dd>1 seconds</dd></div>
+              <div><dt>Texted / linked to Mom</dt><dd>not parsed</dd></div>
+              <div><dt>Capture-to-send</dt><dd>not parsed seconds</dd></div>
+              <div><dt>Conversation</dt><dd>Mom</dd></div>
+              <div><dt>Phone image data</dt><dd>1170x2532 / 216.0x216.0 DPI</dd></div>
+              <div><dt>SHA256</dt><dd><code>87ACA0D3E894949ECDC718C82E88052BE73EC351024D8DF789E0D4B977FBD299</code></dd></div>
+            </dl>
+            <p><strong>What records show:</strong> The recovered image appears to depict Florida Crystal business account or customer-message context and is supported by Google Photos or message-export records.</p>
+            <p><strong>Important limitation:</strong> This supports capture and Google Photos backup/message-media context, but the texted timestamp was not parsed for this row. Native iPhone records are needed to confirm transfer metadata.</p>
+          </div>
+          <figure><a href="media/CE-005_Screenshot_2024-04-25_at_12.23.36ΓÇPM.jpeg" target="_blank"><img src="media/CE-005_Screenshot_2024-04-25_at_12.23.36ΓÇPM.jpeg" alt="CE-005 screenshot"></a><figcaption>Screenshot 2024-04-25 at 12.23.36ΓÇ»PM.jpeg</figcaption></figure>
+        </div>
+        <details>
+          <summary>Show OCR summary and source paths</summary>
+          <p class="ocr">.11 cn 12:23 Brianna Tucker Brianna Tucker Hey! I was wondering if y&#x27;all are hiring? 11:19AM Florida Crystal Well &amp; Sprinkler, Inc. • Steve Roberge 11m set for now. Have you tried water care well drilling 11:41 AM Brianna Tucker Not yet, I will reach out to them. Thank you for your time and recommendation! 11:48AM Steve Roberge Good luck 11:49 AM Sending as Florida Crystal Well &amp; Sprinkler, Inc. Type message</p>
+          <ul class="sources"><li><code>C:\Users\thoma\Documents\Cyber Crimes\Hurd Evidence 2024-05-08\Hurd Evidence 2024-05-08\Message Attachments\Photos\Screenshot 2024-04-25 at 12.23.36ΓÇ»PM.jpeg</code></li><li><code>C:\Users\thoma\Documents\Cyber Crimes\Hurd Evidence 2024-05-08\Hurd Evidence 2024-05-08\Messages\HTML\media\Screenshot 2024-04-25 at 12.23.36ΓÇ»PM.jpeg</code></li><li><code>C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\Google Photos\Photos from 2024\IMG_3051.PNG</code></li><li><code>C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\Google Photos\Photos from 2024\IMG_3051.PNG.supplemental-metadata.json</code></li></ul>
+        </details>
+      </article>
+    
+
+      <article class="card" id="CE-006">
+        <div class="card-head">
+          <div>
+            <div class="eyebrow">Evidence Item 2</div>
+            <h3>CE-006 / EX-063</h3>
+          </div>
+          <span class="badge">Strong visual/timing match</span>
+        </div>
+        <div class="card-grid">
+          <div>
+            <p class="subject">Google Business Profile chat settings showing Florida Crystal Well &amp; Sprinkler as a business</p>
+            <dl class="facts">
+              <div><dt>Capture time</dt><dd>2024-04-25 12:26:18</dd></div>
+              <div><dt>Google Photos backup</dt><dd>2024-04-25 12:26:19</dd></div>
+              <div><dt>Backup delta</dt><dd>1 seconds</dd></div>
+              <div><dt>Texted / linked to Mom</dt><dd>not parsed</dd></div>
+              <div><dt>Capture-to-send</dt><dd>not parsed seconds</dd></div>
+              <div><dt>Conversation</dt><dd>Mom</dd></div>
+              <div><dt>Phone image data</dt><dd>1170x2532 / 216.0x216.0 DPI</dd></div>
+              <div><dt>SHA256</dt><dd><code>BFF7F9C4F04ACF193D74AC50B0C7BB2F2744E42507825CBEDA17D945465A294F</code></dd></div>
+            </dl>
+            <p><strong>What records show:</strong> The recovered image appears to depict Florida Crystal business account or customer-message context and is supported by Google Photos or message-export records.</p>
+            <p><strong>Important limitation:</strong> This supports capture and Google Photos backup/message-media context, but the texted timestamp was not parsed for this row. Native iPhone records are needed to confirm transfer metadata.</p>
+          </div>
+          <figure><a href="media/CE-006_Screenshot_2024-04-25_at_12.26.18ΓÇPM.jpeg" target="_blank"><img src="media/CE-006_Screenshot_2024-04-25_at_12.26.18ΓÇPM.jpeg" alt="CE-006 screenshot"></a><figcaption>Screenshot 2024-04-25 at 12.26.18ΓÇ»PM.jpeg</figcaption></figure>
+        </div>
+        <details>
+          <summary>Show OCR summary and source paths</summary>
+          <p class="ocr">.11 cn 12:26 Chat Settings Personal Send read receipts Let businesses see when you&#x27;ve read their message Allow messages about your reviews Let businesses privately respond to your reviews through chat Business Florida Crystal Well &amp; Sprinkler, Inc. 59 Brittany Ln, Palm Coast, FL 32137 Go Fingerprinting &amp; Notary 6274 Palm Vista st, Port Orange, FL 32128</p>
+          <ul class="sources"><li><code>C:\Users\thoma\Documents\Cyber Crimes\Hurd Evidence 2024-05-08\Hurd Evidence 2024-05-08\Message Attachments\Photos\Screenshot 2024-04-25 at 12.26.18ΓÇ»PM.jpeg</code></li><li><code>C:\Users\thoma\Documents\Cyber Crimes\Hurd Evidence 2024-05-08\Hurd Evidence 2024-05-08\Messages\HTML\media\Screenshot 2024-04-25 at 12.26.18ΓÇ»PM.jpeg</code></li><li><code>C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\Google Photos\Photos from 2024\IMG_3052.PNG</code></li><li><code>C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\Google Photos\Photos from 2024\IMG_3052.PNG.supplemental-metadata.json</code></li></ul>
+        </details>
+      </article>
+    
+
+      <article class="card" id="CE-007">
+        <div class="card-head">
+          <div>
+            <div class="eyebrow">Evidence Item 3</div>
+            <h3>CE-007 / EX-064</h3>
+          </div>
+          <span class="badge">Strong visual/timing match</span>
+        </div>
+        <div class="card-grid">
+          <div>
+            <p class="subject">Florida Crystal customer-message thread involving Ray and Steve Roberge</p>
+            <dl class="facts">
+              <div><dt>Capture time</dt><dd>2024-04-25 12:28:23</dd></div>
+              <div><dt>Google Photos backup</dt><dd>2024-04-25 12:28:23</dd></div>
+              <div><dt>Backup delta</dt><dd>0 seconds</dd></div>
+              <div><dt>Texted / linked to Mom</dt><dd>2024/04/25 12:28:44</dd></div>
+              <div><dt>Capture-to-send</dt><dd>21 seconds</dd></div>
+              <div><dt>Conversation</dt><dd>Mom</dd></div>
+              <div><dt>Phone image data</dt><dd>1170x2532 / 216.0x216.0 DPI</dd></div>
+              <div><dt>SHA256</dt><dd><code>8A3C1943AB7C479A86A55D1F1F2817683753464109DBAFD75530E0C0F0D86A7E</code></dd></div>
+            </dl>
+            <p><strong>What records show:</strong> The recovered image appears to depict customer or lead communications for Florida Crystal Well &amp; Sprinkler, then the message export records it as linked/texted to Mom within seconds.</p>
+            <p><strong>Important limitation:</strong> This supports capture/transmission timing, but does not by itself identify the physical user. Native iPhone Messages/Photos databases and provider logs are needed for final authentication.</p>
+          </div>
+          <figure><a href="media/CE-007_Screenshot_2024-04-25_at_12.28.23ΓÇPM.jpeg" target="_blank"><img src="media/CE-007_Screenshot_2024-04-25_at_12.28.23ΓÇPM.jpeg" alt="CE-007 screenshot"></a><figcaption>Screenshot 2024-04-25 at 12.28.23ΓÇ»PM.jpeg</figcaption></figure>
+        </div>
+        <details>
+          <summary>Show OCR summary and source paths</summary>
+          <p class="ocr">.11 12:28 Ray Section. My name is Ray. Apr 8 at 7:42 PM Hi. Please text Steve here +1 (386)_ 264-5875 Or call Apr 8 at 8:06PM • Read Ray Thank you. I just sent Steve a text. Apr 8 at 8:33 PM Florida Crystal Well &amp; Sprinkler, Inc. • Steve Roberge Ray did you mean Wednesday as in tomorrow or the one last week I remember your text I sent a quote and this is the next time I saw anything regarding that job. Not sure if you tried to reach me but if you weren&#x27;t texting 2645875 it&#x27;s very hard for me to </p>
+          <ul class="sources"><li><code>C:\Users\thoma\Documents\Cyber Crimes\Hurd Evidence 2024-05-08\Hurd Evidence 2024-05-08\Message Attachments\Photos\Screenshot 2024-04-25 at 12.28.23ΓÇ»PM.jpeg</code></li><li><code>C:\Users\thoma\Documents\Cyber Crimes\Hurd Evidence 2024-05-08\Hurd Evidence 2024-05-08\Messages\HTML\media\Screenshot 2024-04-25 at 12.28.23ΓÇ»PM.jpeg</code></li><li><code>C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\Google Photos\Photos from 2024\IMG_3053.PNG</code></li><li><code>C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\Google Photos\Photos from 2024\IMG_3053.PNG.supplemental-metadata.json</code></li></ul>
+        </details>
+      </article>
+    
+
+      <article class="card" id="CE-008">
+        <div class="card-head">
+          <div>
+            <div class="eyebrow">Evidence Item 4</div>
+            <h3>CE-008 / EX-065</h3>
+          </div>
+          <span class="badge">Strong visual/timing match</span>
+        </div>
+        <div class="card-grid">
+          <div>
+            <p class="subject">Florida Crystal customer-message thread involving Brianna Tucker and Steve Roberge</p>
+            <dl class="facts">
+              <div><dt>Capture time</dt><dd>2024-04-25 12:29:02</dd></div>
+              <div><dt>Google Photos backup</dt><dd>2024-04-25 12:29:02</dd></div>
+              <div><dt>Backup delta</dt><dd>0 seconds</dd></div>
+              <div><dt>Texted / linked to Mom</dt><dd>2024/04/25 12:29:14</dd></div>
+              <div><dt>Capture-to-send</dt><dd>12 seconds</dd></div>
+              <div><dt>Conversation</dt><dd>Mom</dd></div>
+              <div><dt>Phone image data</dt><dd>1170x2532 / 216.0x216.0 DPI</dd></div>
+              <div><dt>SHA256</dt><dd><code>396770C72B2966AEF888BB0ED0D759129E9E1B980E6AFFEB31226FB0DEEE2470</code></dd></div>
+            </dl>
+            <p><strong>What records show:</strong> The recovered image appears to depict customer or lead communications for Florida Crystal Well &amp; Sprinkler, then the message export records it as linked/texted to Mom within seconds.</p>
+            <p><strong>Important limitation:</strong> This supports capture/transmission timing, but does not by itself identify the physical user. Native iPhone Messages/Photos databases and provider logs are needed for final authentication.</p>
+          </div>
+          <figure><a href="media/CE-008_Screenshot_2024-04-25_at_12.29.02ΓÇPM.jpeg" target="_blank"><img src="media/CE-008_Screenshot_2024-04-25_at_12.29.02ΓÇPM.jpeg" alt="CE-008 screenshot"></a><figcaption>Screenshot 2024-04-25 at 12.29.02ΓÇ»PM.jpeg</figcaption></figure>
+        </div>
+        <details>
+          <summary>Show OCR summary and source paths</summary>
+          <p class="ocr">.11 12:29 Brianna Tucker Brianna Tucker Hey! I was wondering if y&#x27;all are hiring? 11:19AM Florida Crystal Well &amp; Sprinkler, Inc. • Steve Roberge 11m set for now. Have you tried water care well drilling 11:41 AM Brianna Tucker Not yet, I will reach out to them. Thank you for your time and recommendation! 11:48AM Steve Roberge Good luck 11:49 AM Sending as Florida Crystal Well &amp; Sprinkler, Inc. Type message</p>
+          <ul class="sources"><li><code>C:\Users\thoma\Documents\Cyber Crimes\Hurd Evidence 2024-05-08\Hurd Evidence 2024-05-08\Message Attachments\Photos\Screenshot 2024-04-25 at 12.29.02ΓÇ»PM.jpeg</code></li><li><code>C:\Users\thoma\Documents\Cyber Crimes\Hurd Evidence 2024-05-08\Hurd Evidence 2024-05-08\Messages\HTML\media\Screenshot 2024-04-25 at 12.29.02ΓÇ»PM.jpeg</code></li><li><code>C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\Google Photos\Photos from 2024\IMG_3054.PNG</code></li><li><code>C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\Google Photos\Photos from 2024\IMG_3054.PNG.supplemental-metadata.json</code></li></ul>
+        </details>
+      </article>
+    
+
+      <article class="card" id="CE-009">
+        <div class="card-head">
+          <div>
+            <div class="eyebrow">Evidence Item 5</div>
+            <h3>CE-009 / EX-066</h3>
+          </div>
+          <span class="badge">Strong timing match</span>
+        </div>
+        <div class="card-grid">
+          <div>
+            <p class="subject">Florida Crystal customer/lead message list and business contact records</p>
+            <dl class="facts">
+              <div><dt>Capture time</dt><dd>2024-04-25 12:32:17</dd></div>
+              <div><dt>Google Photos backup</dt><dd>2024-04-25 12:32:17</dd></div>
+              <div><dt>Backup delta</dt><dd>0 seconds</dd></div>
+              <div><dt>Texted / linked to Mom</dt><dd>2024/04/25 12:32:46</dd></div>
+              <div><dt>Capture-to-send</dt><dd>29 seconds</dd></div>
+              <div><dt>Conversation</dt><dd>Mom</dd></div>
+              <div><dt>Phone image data</dt><dd>1170x2532 / 216.0x216.0 DPI</dd></div>
+              <div><dt>SHA256</dt><dd><code>148C2FB4689B1D15679D7BFBC11B57D203715B49EA9AF91D88B080E9547DBB10</code></dd></div>
+            </dl>
+            <p><strong>What records show:</strong> The recovered image appears to depict customer or lead communications for Florida Crystal Well &amp; Sprinkler, then the message export records it as linked/texted to Mom within seconds.</p>
+            <p><strong>Important limitation:</strong> This supports capture/transmission timing, but does not by itself identify the physical user. Native iPhone Messages/Photos databases and provider logs are needed for final authentication.</p>
+          </div>
+          <figure><a href="media/CE-009_Screenshot_2024-04-25_at_12.32.17ΓÇPM.jpeg" target="_blank"><img src="media/CE-009_Screenshot_2024-04-25_at_12.32.17ΓÇPM.jpeg" alt="CE-009 screenshot"></a><figcaption>Screenshot 2024-04-25 at 12.32.17ΓÇ»PM.jpeg</figcaption></figure>
+        </div>
+        <details>
+          <summary>Show OCR summary and source paths</summary>
+          <p class="ocr">.11 12:32 Florida Crystal Well &amp;... 59 Brittany Ln, Palm Coast, FL 32137 0Leve rxuuelye. uuuu Ray Tue 2:14 PM Florida Crystal Well &amp; Sprinkler, Inc. • Stev... Raz Pataca Raz Pataca: Thank you. Aleks Przhelyaskovskiy Aleks Przhelyaskovskiy: Liz Jones Tue 12:54 PM Apr 12 at 2:59 PM 09/16/2023, 6:58 PM Liz Jones: 386-316-4914. My phone will o... Lisa Calhoun 07/02/2023, 5:51 PM Read You: Possibly. Please call Steve at (38... Cynthia Davis 06/26/2023, 1:25 PM Cynthia Davis: My email is daviskay14 @o</p>
+          <ul class="sources"><li><code>C:\Users\thoma\Documents\Cyber Crimes\Hurd Evidence 2024-05-08\Hurd Evidence 2024-05-08\Message Attachments\Photos\Screenshot 2024-04-25 at 12.32.17ΓÇ»PM.jpeg</code></li><li><code>C:\Users\thoma\Documents\Cyber Crimes\Hurd Evidence 2024-05-08\Hurd Evidence 2024-05-08\Messages\HTML\media\Screenshot 2024-04-25 at 12.32.17ΓÇ»PM.jpeg</code></li><li><code>C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\Google Photos\Photos from 2024\IMG_3055.PNG.supplemental-metadata(1).json</code></li></ul>
+        </details>
+      </article>
+    
+
+      <article class="card" id="CE-010">
+        <div class="card-head">
+          <div>
+            <div class="eyebrow">Evidence Item 6</div>
+            <h3>CE-010 / EX-067</h3>
+          </div>
+          <span class="badge">Strong visual/timing match</span>
+        </div>
+        <div class="card-grid">
+          <div>
+            <p class="subject">Google Business Profile account list showing Florida Crystal Well &amp; Sprinkler</p>
+            <dl class="facts">
+              <div><dt>Capture time</dt><dd>2024-04-25 12:33:27</dd></div>
+              <div><dt>Google Photos backup</dt><dd>2024-04-25 12:33:27</dd></div>
+              <div><dt>Backup delta</dt><dd>0 seconds</dd></div>
+              <div><dt>Texted / linked to Mom</dt><dd>2024/04/25 12:33:47</dd></div>
+              <div><dt>Capture-to-send</dt><dd>20 seconds</dd></div>
+              <div><dt>Conversation</dt><dd>Mom</dd></div>
+              <div><dt>Phone image data</dt><dd>1170x2532 / 216.0x216.0 DPI</dd></div>
+              <div><dt>SHA256</dt><dd><code>843172AFDB5765C9BBDA337C1546020DE4F29A2CBD61045A98475FA481737F0F</code></dd></div>
+            </dl>
+            <p><strong>What records show:</strong> The recovered image appears to show access to a Google Business Profile account page listing Florida Crystal Well &amp; Sprinkler among managed business profiles.</p>
+            <p><strong>Important limitation:</strong> This supports capture/transmission timing, but does not by itself identify the physical user. Native iPhone Messages/Photos databases and provider logs are needed for final authentication.</p>
+          </div>
+          <figure><a href="media/CE-010_Screenshot_2024-04-25_at_12.33.27ΓÇPM.jpeg" target="_blank"><img src="media/CE-010_Screenshot_2024-04-25_at_12.33.27ΓÇPM.jpeg" alt="CE-010 screenshot"></a><figcaption>Screenshot 2024-04-25 at 12.33.27ΓÇ»PM.jpeg</figcaption></figure>
+        </div>
+        <details>
+          <summary>Show OCR summary and source paths</summary>
+          <p class="ocr">.11 12:33 Your businesses x Add a Business Profile Verified Bahama House CHIROPRACTIC 2001 S. Atlantic Ave., Daytona Beach, FL 32... Cambria Massage Therapy - Rita Bena... Harmony, CA 93428, USA Cambria Palms Motel 2662 Main Street, Cambria, CA 93428 Duplicate Florida Crystal Well &amp; Sprinkler, Inc. 59 Brittany Lane, Palm Coast, FL 32137 Fox Chapel Chiropractic and Wellness 50 Freeport Road #200, Pittsburgh, Pennsyl... Go Fingerprinting &amp; Notary @ 6274 Palm Vista st, Port Orange, FL 32128 James H</p>
+          <ul class="sources"><li><code>C:\Users\thoma\Documents\Cyber Crimes\Hurd Evidence 2024-05-08\Hurd Evidence 2024-05-08\Message Attachments\Photos\Screenshot 2024-04-25 at 12.33.27ΓÇ»PM.jpeg</code></li><li><code>C:\Users\thoma\Documents\Cyber Crimes\Hurd Evidence 2024-05-08\Hurd Evidence 2024-05-08\Messages\HTML\media\Screenshot 2024-04-25 at 12.33.27ΓÇ»PM.jpeg</code></li><li><code>C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\Google Photos\Photos from 2024\IMG_3056.PNG</code></li><li><code>C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\Google Photos\Photos from 2024\IMG_3056.PNG.supplemental-metadata.json</code></li></ul>
+        </details>
+      </article>
+    
+
+      <article class="card" id="CE-015">
+        <div class="card-head">
+          <div>
+            <div class="eyebrow">Evidence Item 7</div>
+            <h3>CE-015 / EX-071</h3>
+          </div>
+          <span class="badge">Strong visual/timing match</span>
+        </div>
+        <div class="card-grid">
+          <div>
+            <p class="subject">Gmail message from Google Business Profile about Brianna Tucker contacting Florida Crystal</p>
+            <dl class="facts">
+              <div><dt>Capture time</dt><dd>2024-04-25 12:48:04</dd></div>
+              <div><dt>Google Photos backup</dt><dd>2024-04-25 12:48:05</dd></div>
+              <div><dt>Backup delta</dt><dd>1 seconds</dd></div>
+              <div><dt>Texted / linked to Mom</dt><dd>2024/04/25 12:48:16</dd></div>
+              <div><dt>Capture-to-send</dt><dd>12 seconds</dd></div>
+              <div><dt>Conversation</dt><dd>Mom</dd></div>
+              <div><dt>Phone image data</dt><dd>1170x2532 / 216.0x216.0 DPI</dd></div>
+              <div><dt>SHA256</dt><dd><code>E37C71DB2139BCF3AB031F72A51B351DDC83FC3FD409B4BB1302D4CEBA3E7CF9</code></dd></div>
+            </dl>
+            <p><strong>What records show:</strong> The recovered image appears to show Gmail content from Google Business Profile about a Florida Crystal customer/lead message.</p>
+            <p><strong>Important limitation:</strong> This supports capture/transmission timing, but does not by itself identify the physical user. Native iPhone Messages/Photos databases and provider logs are needed for final authentication.</p>
+          </div>
+          <figure><a href="media/CE-015_Screenshot_2024-04-25_at_12.48.04ΓÇPM.jpeg" target="_blank"><img src="media/CE-015_Screenshot_2024-04-25_at_12.48.04ΓÇPM.jpeg" alt="CE-015 screenshot"></a><figcaption>Screenshot 2024-04-25 at 12.48.04ΓÇ»PM.jpeg</figcaption></figure>
+        </div>
+        <details>
+          <summary>Show OCR summary and source paths</summary>
+          <p class="ocr">12:48 Message from Brianna Tucker Inbox Googl... to me 11:20 AM Unsubscribe From Reply To To Date Google Business Profile businessprofile- noreply@google.com Google Business Profile businessprofile- noreply@google.com keeganhurd@gmail.com Apr 25, 2024 at 11:20AM Standard encryption (TLS) Learn more Display images Florida Crystal Well &amp; Sprinkler, Inc. 59 Brittany Lane, Palm Coast, FL 32137 Brianna Tucker has sent you a mess iness</p>
+          <ul class="sources"><li><code>C:\Users\thoma\Documents\Cyber Crimes\Hurd Evidence 2024-05-08\Hurd Evidence 2024-05-08\Message Attachments\Photos\Screenshot 2024-04-25 at 12.48.04ΓÇ»PM.jpeg</code></li><li><code>C:\Users\thoma\Documents\Cyber Crimes\Hurd Evidence 2024-05-08\Hurd Evidence 2024-05-08\Messages\HTML\media\Screenshot 2024-04-25 at 12.48.04ΓÇ»PM.jpeg</code></li><li><code>C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\Google Photos\Photos from 2024\IMG_3061.PNG</code></li><li><code>C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\Google Photos\Photos from 2024\IMG_3061.PNG.supplemental-metadata.json</code></li></ul>
+        </details>
+      </article>
+    
+    </section>
+
+    <section id="sources">
+      <h2>Source Files and Traceability</h2>
+      <table>
+        <thead><tr><th>Source</th><th>Exists</th><th>Path</th><th>Use in this packet</th></tr></thead>
+        <tbody>
+          <tr>
+            <td>Messages.html export</td>
+            <td>Yes</td>
+            <td><code>C:\Users\thoma\Documents\Cyber Crimes\Hurd Evidence 2024-05-08\Hurd Evidence 2024-05-08\Messages\HTML\Messages.html</code></td>
+            <td>Message thread export containing media references; native sms.db should confirm final sender/recipient metadata.</td>
+          </tr>
+        
+          <tr>
+            <td>Unique capture/send event table</td>
+            <td>Yes</td>
+            <td><code>C:\Users\thoma\Documents\Cyber Crimes Tools\POPD Final Supplemental Packet\Unique_Capture_Send_Events.csv</code></td>
+            <td>Existing CE/EX mapping, hashes, screenshot paths, HTML media paths, and parsed texted-to-Mom times.</td>
+          </tr>
+        
+          <tr>
+            <td>Google Photos correlation table</td>
+            <td>Yes</td>
+            <td><code>C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\_forensic_outputs\Google_Photos_Phone_Artifact_Corroboration.csv</code></td>
+            <td>Google Photos backup/sync timing and IOS_PHONE origin records for matched phone artifacts.</td>
+          </tr>
+        
+          <tr>
+            <td>Device metadata audit</td>
+            <td>Yes</td>
+            <td><code>C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\_forensic_outputs\Device_Metadata_Audit_Capture_Send_Events.csv</code></td>
+            <td>Image dimensions, DPI, SHA256, and device-dimension assessment.</td>
+          </tr>
+        
+          <tr>
+            <td>Google Business Profile data</td>
+            <td>Yes</td>
+            <td><code>C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\Google Business Profile\account-109822854878924139108\location-7701250605898456430\data.json</code></td>
+            <td>Google Takeout business profile source for location 7701250605898456430.</td>
+          </tr>
+        
+          <tr>
+            <td>Google Business Profile additional data</td>
+            <td>Yes</td>
+            <td><code>C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\Google Business Profile\account-109822854878924139108\location-7701250605898456430\additionalData.json</code></td>
+            <td>Google Takeout source showing 59 Brittany Lane, Palm Coast / Flagler County context.</td>
+          </tr>
+        
+          <tr>
+            <td>Google Business Profile admin record</td>
+            <td>Yes</td>
+            <td><code>C:\Users\thoma\Documents\Cyber Crimes Tools\Takeout Extracted\Takeout\Google Business Profile\account-109822854878924139108\location-7701250605898456430\locationAdmin-107360321583352836224.json</code></td>
+            <td>Google Takeout source naming Steve Roberge as manager.</td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+
+    <section id="followup" class="panel">
+      <h2>Recommended Follow-Up Records</h2>
+      <p>For authentication, investigators should compare this packet against the native iPhone Messages database (<code>sms.db</code>), attachment table, handle table, Photos database, deletion records, and iCloud/Apple records for April 25, 2024. Google records that would help include Google Account session/device logs, Google Photos upload records, Gmail access logs, and Google Business Profile access/audit logs for the Florida Crystal location.</p>
+      <p>Steve Roberge’s written authorization statement should be obtained directly. Google Business Profile provider records should be used to confirm which Google account had management access, what user/session accessed the business profile, and whether customer-message or lead pages were opened during the relevant period.</p>
+    </section>
+
+    <p class="footer">Generated locally on 2026-07-28 10:05:55. This packet is a standalone Florida Crystal subset and does not modify the broader POPD evidence packet.</p>
+  </main>
+</body>
+</html>

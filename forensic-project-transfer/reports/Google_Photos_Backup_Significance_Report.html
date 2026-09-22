@@ -1,0 +1,200 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Google Photos Backup Significance</title>
+<style>
+:root { color-scheme:dark; --bg:#0e1116; --panel:#151b23; --line:#303946; --text:#edf2f7; --muted:#aab4c3; --blue:#6aa6ff; --green:#78e5aa; --amber:#ffe2a3; }
+body { margin:0; background:var(--bg); color:var(--text); font:16px/1.5 "Segoe UI", system-ui, sans-serif; }
+header { background:#0a0d12; border-bottom:4px solid var(--blue); padding:18px 24px; position:sticky; top:0; }
+h1 { margin:0 0 6px; font-size:24px; }
+header p { margin:0; color:#c8d7eb; }
+main { max-width:1180px; margin:auto; padding:18px; }
+.box,.card { background:var(--panel); border:1px solid var(--line); border-radius:8px; padding:14px; margin:14px 0; }
+.box { border-left:8px solid var(--green); }
+.warn { border-left-color:#ffbf47; }
+.counts { display:grid; grid-template-columns:repeat(auto-fit,minmax(170px,1fr)); gap:10px; }
+.counts div { background:#101923; border:1px solid var(--line); border-left:7px solid var(--blue); border-radius:8px; padding:10px; }
+.counts strong { display:block; font-size:26px; color:#b9dcff; }
+.grid { display:grid; grid-template-columns:190px minmax(0,1fr); gap:6px 12px; }
+b { color:var(--amber); }
+span { overflow-wrap:anywhere; }
+h2 { border-bottom:1px solid var(--line); padding-bottom:6px; }
+h3 { color:#b9dcff; margin-top:0; }
+li { margin:6px 0; }
+@media(max-width:760px){.grid{grid-template-columns:1fr} header{position:static}}
+</style>
+</head>
+<body>
+<header>
+  <h1>Google Photos Backup Significance</h1>
+  <p>Objective explanation of the screenshot capture → Google Photos backup → text transmission chain.</p>
+</header>
+<main>
+  <section class="box">
+    <h2>Bottom Line</h2>
+    <p>The key point is no longer just that screenshots existed on Elijah's phone. The stronger point is that many screenshot events have matching Google Photos metadata rows in the Takeout account, often 0-1 seconds from the screenshot capture time, followed by text transmission to Mom seconds later.</p>
+    <p>If this Takeout is from <code>keeganhurd@gmail.com</code>, then these are Google-side account records showing the screenshots backed up into that Google Photos account. That supports the inference that the iPhone was configured/logged in to upload photos to the account at the time. This does not, by itself, identify the person holding the phone.</p>
+  </section>
+  <section class="counts">
+    <div><strong>127</strong><span>Google Photos April 19-26 rows</span></div>
+    <div><strong>127</strong><span>IOS_PHONE origin rows</span></div>
+    <div><strong>74</strong><span>April 25 noon-session rows</span></div>
+    <div><strong>61</strong><span>close/strong timing matches</span></div>
+    <div><strong>52</strong><span>matches involving financial/business/Google terms</span></div>
+  </section>
+  <section class="box warn">
+    <h2>Limits</h2>
+    <ul>
+      <li>These records do not name the physical user.</li>
+      <li>They do not replace native iPhone Photos/Messages records.</li>
+      <li>They do not independently prove a Drive open/download event.</li>
+      <li>Provider records from Google and Apple would be stronger for device, IP, session, and deletion proof.</li>
+    </ul>
+  </section>
+  <h2>Critical Examples</h2>
+  
+        <article class="card">
+          <h3>CE-017 / EX-174</h3>
+          <div class="grid">
+            <b>Screenshot capture</b><span>2024-04-25 12:50:49</span>
+            <b>Google Photos backup row</b><span>IMG_3064.PNG at 2024-04-25 12:50:49</span>
+            <b>Backup delta</b><span>0 seconds from capture</span>
+            <b>Texted to Mom</b><span>2024-04-25 12:51:02 (13 sec after capture)</span>
+            <b>Google origin</b><span>{&quot;mobileUpload&quot;: {&quot;deviceType&quot;: &quot;IOS_PHONE&quot;}}</span>
+            <b>Dimensions</b><span>1170x2532</span>
+            <b>Terms</b><span>Gmail; IRS/EIN; Bank Statement; Financial Statement; Business Record; Helo Payment Services</span>
+          </div>
+          <p>12:50 Helo Payment Services LLC App Info From To Date Inbox Apr 23 me to info Keegan Hurd keeganhurd@gmail.com info@virtuecapitalco.com Apr 23, 2024 at 2:34 PM EIN: 84-2520853 https;/./uyobiz.wymgoy/ Business/FilingDetails.aspx?eFNum= 131207049025146185142164033215 004223226038139153 NON-NEGOTIABLE 20 100 68-7497/2560 Pay to the order of FEDERAL Credit Union FOR ROUTING NUMBER: 2 5 6 0 7 4 9 Sincerely, Thomas Keegan…</p>
+        </article>
+        
+        <article class="card">
+          <h3>CE-018 / EX-073</h3>
+          <div class="grid">
+            <b>Screenshot capture</b><span>2024-04-25 12:54:32</span>
+            <b>Google Photos backup row</b><span>IMG_3065.PNG at 2024-04-25 12:54:32</span>
+            <b>Backup delta</b><span>0 seconds from capture</span>
+            <b>Texted to Mom</b><span>2024-04-25 12:54:44 (12 sec after capture)</span>
+            <b>Google origin</b><span>{&quot;mobileUpload&quot;: {&quot;deviceType&quot;: &quot;IOS_PHONE&quot;}}</span>
+            <b>Dimensions</b><span>1170x2532</span>
+            <b>Terms</b><span>IRS/EIN; Business Record; Helo Payment Services</span>
+          </div>
+          <p>12:54 HELO Payment Service... # IRS DEPARTMENT OF THE TREASURY INTERNAL REVENUE SERVICE 45999-0023 CINCINNATI OH HELO PAYMENT SERVICES LLC THOMAS KEEGAN HURD MBR 3501 S ATLANTIC AVE UNIT 304 DAYTONA BEACH SHORES, FL 32118 Date of this notice: 07—26—2019 Employer Identification Number : 84-2520853 Form: SS—4 Number Of this notice: cp 575 B For assistance you may call us at: 1-800-829-4933 IF YOU WRITE, ATTACH THE STU…</p>
+        </article>
+        
+        <article class="card">
+          <h3>CE-020 / EX-075</h3>
+          <div class="grid">
+            <b>Screenshot capture</b><span>2024-04-25 12:56:37</span>
+            <b>Google Photos backup row</b><span>IMG_3067.PNG at 2024-04-25 12:56:38</span>
+            <b>Backup delta</b><span>1 seconds from capture</span>
+            <b>Texted to Mom</b><span>2024-04-25 12:56:47 (10 sec after capture)</span>
+            <b>Google origin</b><span>{&quot;mobileUpload&quot;: {&quot;deviceType&quot;: &quot;IOS_PHONE&quot;}}</span>
+            <b>Dimensions</b><span>1170x2532</span>
+            <b>Terms</b><span>Gmail; IRS/EIN; Business Record; Helo Payment Services</span>
+          </div>
+          <p>12:56 From To Date Virtue Capital Apr 23 to me Virtue Capital info@virtuecapitalco.com Keegan Hurd keeganhurd@gmail.com Apr 23, 2024 at 2:56 PM Standard encryption (TLS) Learn more Please send me over a picture copy of your drivers license. From: Keegan Hurd &lt;keeganhurd@gmail.com&gt; Sent: Tuesday, April 23, 2024 2:34 PM To: Virtue Capital &lt;info@virtuecapitalco.com&gt; Subject: Helo Payment Services LLC App Info EIN: 84-2…</p>
+        </article>
+        
+        <article class="card">
+          <h3>CE-025 / EX-008</h3>
+          <div class="grid">
+            <b>Screenshot capture</b><span>2024-04-25 13:09:50</span>
+            <b>Google Photos backup row</b><span>IMG_3072.PNG at 2024-04-25 13:09:50</span>
+            <b>Backup delta</b><span>0 seconds from capture</span>
+            <b>Texted to Mom</b><span>2024-04-25 13:10:13 (23 sec after capture)</span>
+            <b>Google origin</b><span>{&quot;mobileUpload&quot;: {&quot;deviceType&quot;: &quot;IOS_PHONE&quot;}}</span>
+            <b>Dimensions</b><span>1170x2532</span>
+            <b>Terms</b><span>Gmail; Google Account; Bank Statement; Financial Statement; Business Record; Helo Payment Services; Navy Federal</span>
+          </div>
+          <p>1:09 Deposit Notification Inbox From To Date Navy Federal Cr... 5:20 AM to me Navy Federal Credit Union notice@messages.navyfederal.org keeganhurd@gmail.com Apr 25, 2024 at 5:20 AM Standard encryption (TLS) Learn more Images from this sender are always displayed. Don&#x27;t display from now on. NAVY FEDERAL CREDIT UNION Navy Federal Security Zone: Email for HELO I Access Whoo 1-100! Your Funds Are Available Great news! T…</p>
+        </article>
+        
+        <article class="card">
+          <h3>CE-030 / EX-013</h3>
+          <div class="grid">
+            <b>Screenshot capture</b><span>2024-04-25 13:21:58</span>
+            <b>Google Photos backup row</b><span>IMG_3091.PNG at 2024-04-25 13:21:58</span>
+            <b>Backup delta</b><span>0 seconds from capture</span>
+            <b>Texted to Mom</b><span>2024-04-25 13:22:07 (9 sec after capture)</span>
+            <b>Google origin</b><span>{&quot;mobileUpload&quot;: {&quot;deviceType&quot;: &quot;IOS_PHONE&quot;}}</span>
+            <b>Dimensions</b><span>1170x2532</span>
+            <b>Terms</b><span>IRS/EIN; Bank Statement; Financial Statement; Business Record; Helo Payment Services</span>
+          </div>
+          <p>Second Owner Title: DocuSign Envelope D: ABB8F54F-6ECO-486E-B003-4A63EECFBBC1 Date: AGREEMENT FOR DIRECT DEPOSITS (ACH CREDITS) AND DIRECT COLLECTIONS (ACH DEBITS) Appendix &quot;A&quot; Alternate Bank Account: (Name of account exactly as it appears on your Bank Statements or Bank Letters) Bank Name: ABA: Routing: Alternate Bank Account: Bank Name: ABA: Routing: Alternate Bank Account: Bank Name: ABA: Routing: seller: HELO PA…</p>
+        </article>
+        
+        <article class="card">
+          <h3>CE-035 / EX-018</h3>
+          <div class="grid">
+            <b>Screenshot capture</b><span>2024-04-25 13:32:13</span>
+            <b>Google Photos backup row</b><span>IMG_3096.PNG at 2024-04-25 13:32:14</span>
+            <b>Backup delta</b><span>1 seconds from capture</span>
+            <b>Texted to Mom</b><span>2024-04-25 13:32:26 (13 sec after capture)</span>
+            <b>Google origin</b><span>{&quot;mobileUpload&quot;: {&quot;deviceType&quot;: &quot;IOS_PHONE&quot;}}</span>
+            <b>Dimensions</b><span>1170x2532</span>
+            <b>Terms</b><span>Gmail; Google Account; Bank Statement; Financial Statement; Business Record; Helo Payment Services; Navy Federal</span>
+          </div>
+          <p>1:32 From To Date Navy Federal Cr... Apr 24 to me Navy Federal Credit Union notice@messages.navyfederal.org keeganhurd@gmail.com Apr 24, 2024 at 5:18AM Standard encryption (TLS) Learn more Images from this sender are always displayed. Don&#x27;t display from now on. NAVY FEDERAL CREDIT UNION Navy Federal Security Zone: Email for HELO I Access Whoo Hoo! Your Funds Are Available Great news! The funds you recently deposited…</p>
+        </article>
+        
+        <article class="card">
+          <h3>CE-047 / EX-030</h3>
+          <div class="grid">
+            <b>Screenshot capture</b><span>2024-04-25 13:48:49</span>
+            <b>Google Photos backup row</b><span>IMG_3108.PNG at 2024-04-25 13:48:49</span>
+            <b>Backup delta</b><span>0 seconds from capture</span>
+            <b>Texted to Mom</b><span>2024-04-25 13:49:02 (13 sec after capture)</span>
+            <b>Google origin</b><span>{&quot;mobileUpload&quot;: {&quot;deviceType&quot;: &quot;IOS_PHONE&quot;}}</span>
+            <b>Dimensions</b><span>1170x2532</span>
+            <b>Terms</b><span>Bank Statement; Financial Statement; Business Record; Helo Payment Services; Navy Federal</span>
+          </div>
+          <p>1:48 NAVY FEDE 2024-02-29 STMSSC... Page 1 ot s Credit Union po X)oc • VA • 22119-m *BWNLLSV *OOOOOOQ4R2QUQIA6tOOOFME90F HELO PAYMENT SERVICES LLC 6274 PALM VISTA ST PORT ORANGE FL 32128-6952 Statement of Account Statement Period 02/01124 - 022924 Access No. 14221511 Routing Number: 2560-7497-4 Questions about this Statement? Toll-free in the U.S. 1-888-842-6328 For toll-tree numbers when overseas, visit navyfederal…</p>
+        </article>
+        
+        <article class="card">
+          <h3>CE-048 / EX-031</h3>
+          <div class="grid">
+            <b>Screenshot capture</b><span>2024-04-25 13:49:10</span>
+            <b>Google Photos backup row</b><span>IMG_3109.PNG at 2024-04-25 13:49:10</span>
+            <b>Backup delta</b><span>0 seconds from capture</span>
+            <b>Texted to Mom</b><span>2024-04-25 13:49:20 (10 sec after capture)</span>
+            <b>Google origin</b><span>{&quot;mobileUpload&quot;: {&quot;deviceType&quot;: &quot;IOS_PHONE&quot;}}</span>
+            <b>Dimensions</b><span>1170x2532</span>
+            <b>Terms</b><span>IRS/EIN; Bank Statement; Financial Statement; Business Record; Helo Payment Services; Navy Federal</span>
+          </div>
+          <p>NFCU PO BOX 3100 MERRIFIELD VA 22119-3100 9057103475617312b293å5sooooooooooooooooooooooooooooooe 02-12 02-12 02-12 TOTAL 2 NAVY FEDE Credit Union PO • VA • 221 Statement Of Account For HELO PAYMENT SERVICES LLC Business Checking - 7103475617 page 2 ors Statement Period 02/0124 - 02/29,24 Access No. 14221511 (Continued from previous page) Date 02-01 02-01 02-ot 02-01 02-ot 02-02 02-05 02-05 02-05 02-05 02-06 02-06 02…</p>
+        </article>
+        
+        <article class="card">
+          <h3>CE-055 / EX-038</h3>
+          <div class="grid">
+            <b>Screenshot capture</b><span>2024-04-25 13:51:30</span>
+            <b>Google Photos backup row</b><span>IMG_3116.PNG at 2024-04-25 13:51:31</span>
+            <b>Backup delta</b><span>1 seconds from capture</span>
+            <b>Texted to Mom</b><span>2024-04-25 13:51:40 (10 sec after capture)</span>
+            <b>Google origin</b><span>{&quot;mobileUpload&quot;: {&quot;deviceType&quot;: &quot;IOS_PHONE&quot;}}</span>
+            <b>Dimensions</b><span>1170x2532</span>
+            <b>Terms</b><span>Bank Statement; Financial Statement; Business Record; Helo Payment Services</span>
+          </div>
+          <p>NAVY FEDE Credit Union Po • VA • 22119-»m Statement of Account For HELO PAYMENT SERVICES LLC Business Checking - 7103475617 01-17 01-17 01-18 01-18 01-19 01-22 01-22 01-22 01-24 01-24 01-24 01-25 01-26 01-29 01-29 01.03 01-05 01-05 01-08 01-09 01-12 01-10 01-29 01-10 01-29 01-11 01-02 01 12 01-02 01-12 01-02 01-12 01-02 01 16 01-02 01-16 01-02 01-17 01 02 01 17 01-02 01-18 01-02 01-19 01-03 01-19 01-03 01-22 01 03 0…</p>
+        </article>
+        
+        <article class="card">
+          <h3>CE-059 / EX-042</h3>
+          <div class="grid">
+            <b>Screenshot capture</b><span>2024-04-25 13:52:52</span>
+            <b>Google Photos backup row</b><span>IMG_3120.PNG at 2024-04-25 13:52:52</span>
+            <b>Backup delta</b><span>0 seconds from capture</span>
+            <b>Texted to Mom</b><span>2024-04-25 13:53:10 (18 sec after capture)</span>
+            <b>Google origin</b><span>{&quot;mobileUpload&quot;: {&quot;deviceType&quot;: &quot;IOS_PHONE&quot;}}</span>
+            <b>Dimensions</b><span>1170x2532</span>
+            <b>Terms</b><span>IRS/EIN; Bank Statement; Financial Statement; Business Record; Helo Payment Services; Navy Federal</span>
+          </div>
+          <p>1:52 NAVY FEDE 2024-03-31 STMSSC... Credit Union PO BOA X)OO • VA • 22119-m Statement Of Account For HELO PAYMENT SERVICES LLC Business Checking - 7103475617 page 2 015 Statement Period 03/01124 - 03/31,24 Access No. 14221511 (Continued from previous page) Date 03-01 03-01 03-01 03-01 03-04 03-04 03-04 03-04 03-04 03-04 03-04 03-04 03-04 03-04 03-05 03-05 03-05 03-05 03-05 03-06 03-06 03-06 03-07 03-07 Transaction t…</p>
+        </article>
+        
+</main>
+</body>
+</html>
